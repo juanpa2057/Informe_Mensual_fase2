@@ -1,0 +1,135 @@
+Traceback (most recent call last):
+  File "C:\Users\jpocampo\.conda\envs\nuevo2-env\lib\site-packages\jupyter_cache\executors\utils.py", line 58, in single_nb_execution
+    executenb(
+  File "C:\Users\jpocampo\.conda\envs\nuevo2-env\lib\site-packages\nbclient\client.py", line 1204, in execute
+    return NotebookClient(nb=nb, resources=resources, km=km, **kwargs).execute()
+  File "C:\Users\jpocampo\.conda\envs\nuevo2-env\lib\site-packages\nbclient\util.py", line 84, in wrapped
+    return just_run(coro(*args, **kwargs))
+  File "C:\Users\jpocampo\.conda\envs\nuevo2-env\lib\site-packages\nbclient\util.py", line 62, in just_run
+    return loop.run_until_complete(coro)
+  File "C:\Users\jpocampo\.conda\envs\nuevo2-env\lib\asyncio\base_events.py", line 647, in run_until_complete
+    return future.result()
+  File "C:\Users\jpocampo\.conda\envs\nuevo2-env\lib\site-packages\nbclient\client.py", line 663, in async_execute
+    await self.async_execute_cell(
+  File "C:\Users\jpocampo\.conda\envs\nuevo2-env\lib\site-packages\nbclient\client.py", line 965, in async_execute_cell
+    await self._check_raise_for_error(cell, cell_index, exec_reply)
+  File "C:\Users\jpocampo\.conda\envs\nuevo2-env\lib\site-packages\nbclient\client.py", line 862, in _check_raise_for_error
+    raise CellExecutionError.from_cell_and_msg(cell, exec_reply_content)
+nbclient.exceptions.CellExecutionError: An error occurred while executing the following cell:
+------------------
+df_devices = ubi.get_available_devices_v2('bancolombia', 'group', page_size=100)
+device_labels_with_data = list(set(df['device']))
+has_data = df_devices['device_label'].isin(device_labels_with_data)
+ids_with_data = list(df_devices.loc[has_data, 'device_id'])
+df_map = ubi.get_gps_for_multiple_device_id(ids_with_data)
+
+df_intensity = intensity.copy()
+df_intensity = df_intensity.rename(columns={'yearly_kwh_per_m2':'value'})
+
+df_map = pd.merge(
+    df_map,
+    # front_month[['device_name','value']],
+    df_intensity,
+    how='inner'
+)
+
+df_map = df_map.dropna(how='any')
+
+
+fig = go.Figure()
+fig.add_trace(go.Scattergeo(
+    lon = df_map["longitude"],
+    lat = df_map["latitude"],
+    text = df_map["device_name"],
+    marker = dict(
+        size = df_map["value"],
+        line_width=0.5,
+        sizemode = 'area'
+    )))
+
+
+fig.update_layout(
+    margin={"r":50,"t":50,"l":50,"b":50},
+    geo = go.layout.Geo(
+        resolution = 50,
+        scope = 'south america',
+        showframe = True,
+        showcoastlines = True,
+        landcolor = "rgb(229, 229, 229)",
+        countrycolor = "white" ,
+        coastlinecolor = "white",
+        projection_type = 'mercator',
+        lonaxis_range= [ -65.0, -85.0 ],
+        lataxis_range= [ -5.0, 13.0 ],
+        projection_scale=20))
+
+
+fig.update_layout(title_text="Mapa de intensidad de consumo [kWh/m^2-año]", font_size=12,width=750,height=500)
+fig.show()
+------------------
+
+[1;31m---------------------------------------------------------------------------[0m
+[1;31mValueError[0m                                Traceback (most recent call last)
+Cell [1;32mIn[10], line 10[0m
+[0;32m      7[0m df_intensity [38;5;241m=[39m intensity[38;5;241m.[39mcopy()
+[0;32m      8[0m df_intensity [38;5;241m=[39m df_intensity[38;5;241m.[39mrename(columns[38;5;241m=[39m{[38;5;124m'[39m[38;5;124myearly_kwh_per_m2[39m[38;5;124m'[39m:[38;5;124m'[39m[38;5;124mvalue[39m[38;5;124m'[39m})
+[1;32m---> 10[0m df_map [38;5;241m=[39m [43mpd[49m[38;5;241;43m.[39;49m[43mmerge[49m[43m([49m
+[0;32m     11[0m [43m    [49m[43mdf_map[49m[43m,[49m
+[0;32m     12[0m [43m    [49m[38;5;66;43;03m# front_month[['device_name','value']],[39;49;00m
+[0;32m     13[0m [43m    [49m[43mdf_intensity[49m[43m,[49m
+[0;32m     14[0m [43m    [49m[43mhow[49m[38;5;241;43m=[39;49m[38;5;124;43m'[39;49m[38;5;124;43minner[39;49m[38;5;124;43m'[39;49m
+[0;32m     15[0m [43m)[49m
+[0;32m     17[0m df_map [38;5;241m=[39m df_map[38;5;241m.[39mdropna(how[38;5;241m=[39m[38;5;124m'[39m[38;5;124many[39m[38;5;124m'[39m)
+[0;32m     20[0m fig [38;5;241m=[39m go[38;5;241m.[39mFigure()
+
+File [1;32m~\.conda\envs\nuevo2-env\lib\site-packages\pandas\core\reshape\merge.py:110[0m, in [0;36mmerge[1;34m(left, right, how, on, left_on, right_on, left_index, right_index, sort, suffixes, copy, indicator, validate)[0m
+[0;32m     93[0m [38;5;129m@Substitution[39m([38;5;124m"[39m[38;5;130;01m\n[39;00m[38;5;124mleft : DataFrame or named Series[39m[38;5;124m"[39m)
+[0;32m     94[0m [38;5;129m@Appender[39m(_merge_doc, indents[38;5;241m=[39m[38;5;241m0[39m)
+[0;32m     95[0m [38;5;28;01mdef[39;00m [38;5;21mmerge[39m(
+[1;32m   (...)[0m
+[0;32m    108[0m     validate: [38;5;28mstr[39m [38;5;241m|[39m [38;5;28;01mNone[39;00m [38;5;241m=[39m [38;5;28;01mNone[39;00m,
+[0;32m    109[0m ) [38;5;241m-[39m[38;5;241m>[39m DataFrame:
+[1;32m--> 110[0m     op [38;5;241m=[39m [43m_MergeOperation[49m[43m([49m
+[0;32m    111[0m [43m        [49m[43mleft[49m[43m,[49m
+[0;32m    112[0m [43m        [49m[43mright[49m[43m,[49m
+[0;32m    113[0m [43m        [49m[43mhow[49m[38;5;241;43m=[39;49m[43mhow[49m[43m,[49m
+[0;32m    114[0m [43m        [49m[43mon[49m[38;5;241;43m=[39;49m[43mon[49m[43m,[49m
+[0;32m    115[0m [43m        [49m[43mleft_on[49m[38;5;241;43m=[39;49m[43mleft_on[49m[43m,[49m
+[0;32m    116[0m [43m        [49m[43mright_on[49m[38;5;241;43m=[39;49m[43mright_on[49m[43m,[49m
+[0;32m    117[0m [43m        [49m[43mleft_index[49m[38;5;241;43m=[39;49m[43mleft_index[49m[43m,[49m
+[0;32m    118[0m [43m        [49m[43mright_index[49m[38;5;241;43m=[39;49m[43mright_index[49m[43m,[49m
+[0;32m    119[0m [43m        [49m[43msort[49m[38;5;241;43m=[39;49m[43msort[49m[43m,[49m
+[0;32m    120[0m [43m        [49m[43msuffixes[49m[38;5;241;43m=[39;49m[43msuffixes[49m[43m,[49m
+[0;32m    121[0m [43m        [49m[43mindicator[49m[38;5;241;43m=[39;49m[43mindicator[49m[43m,[49m
+[0;32m    122[0m [43m        [49m[43mvalidate[49m[38;5;241;43m=[39;49m[43mvalidate[49m[43m,[49m
+[0;32m    123[0m [43m    [49m[43m)[49m
+[0;32m    124[0m     [38;5;28;01mreturn[39;00m op[38;5;241m.[39mget_result(copy[38;5;241m=[39mcopy)
+
+File [1;32m~\.conda\envs\nuevo2-env\lib\site-packages\pandas\core\reshape\merge.py:707[0m, in [0;36m_MergeOperation.__init__[1;34m(self, left, right, how, on, left_on, right_on, axis, left_index, right_index, sort, suffixes, indicator, validate)[0m
+[0;32m    699[0m (
+[0;32m    700[0m     [38;5;28mself[39m[38;5;241m.[39mleft_join_keys,
+[0;32m    701[0m     [38;5;28mself[39m[38;5;241m.[39mright_join_keys,
+[0;32m    702[0m     [38;5;28mself[39m[38;5;241m.[39mjoin_names,
+[0;32m    703[0m ) [38;5;241m=[39m [38;5;28mself[39m[38;5;241m.[39m_get_merge_keys()
+[0;32m    705[0m [38;5;66;03m# validate the merge keys dtypes. We may need to coerce[39;00m
+[0;32m    706[0m [38;5;66;03m# to avoid incompatible dtypes[39;00m
+[1;32m--> 707[0m [38;5;28;43mself[39;49m[38;5;241;43m.[39;49m[43m_maybe_coerce_merge_keys[49m[43m([49m[43m)[49m
+[0;32m    709[0m [38;5;66;03m# If argument passed to validate,[39;00m
+[0;32m    710[0m [38;5;66;03m# check if columns specified as unique[39;00m
+[0;32m    711[0m [38;5;66;03m# are in fact unique.[39;00m
+[0;32m    712[0m [38;5;28;01mif[39;00m validate [38;5;129;01mis[39;00m [38;5;129;01mnot[39;00m [38;5;28;01mNone[39;00m:
+
+File [1;32m~\.conda\envs\nuevo2-env\lib\site-packages\pandas\core\reshape\merge.py:1340[0m, in [0;36m_MergeOperation._maybe_coerce_merge_keys[1;34m(self)[0m
+[0;32m   1334[0m     [38;5;66;03m# unless we are merging non-string-like with string-like[39;00m
+[0;32m   1335[0m     [38;5;28;01melif[39;00m (
+[0;32m   1336[0m         inferred_left [38;5;129;01min[39;00m string_types [38;5;129;01mand[39;00m inferred_right [38;5;129;01mnot[39;00m [38;5;129;01min[39;00m string_types
+[0;32m   1337[0m     ) [38;5;129;01mor[39;00m (
+[0;32m   1338[0m         inferred_right [38;5;129;01min[39;00m string_types [38;5;129;01mand[39;00m inferred_left [38;5;129;01mnot[39;00m [38;5;129;01min[39;00m string_types
+[0;32m   1339[0m     ):
+[1;32m-> 1340[0m         [38;5;28;01mraise[39;00m [38;5;167;01mValueError[39;00m(msg)
+[0;32m   1342[0m [38;5;66;03m# datetimelikes must match exactly[39;00m
+[0;32m   1343[0m [38;5;28;01melif[39;00m needs_i8_conversion(lk[38;5;241m.[39mdtype) [38;5;129;01mand[39;00m [38;5;129;01mnot[39;00m needs_i8_conversion(rk[38;5;241m.[39mdtype):
+
+[1;31mValueError[0m: You are trying to merge on float64 and object columns. If you wish to proceed you should use pd.concat
+ValueError: You are trying to merge on float64 and object columns. If you wish to proceed you should use pd.concat
+

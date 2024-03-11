@@ -1,0 +1,15 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+  - file: notebooks/summary/Notebook BC Resumen
+  - file: Hallazgos
+
+  - file: notebooks/individual/Notebook BC 332 - Zipaquira   #1
+  - file: notebooks/individual/Notebook BC 367 - Granada Meta #2
+  - file: notebooks/individual/Notebook BC 384 - Anapoima #3
+  - file: notebooks/individual/Notebook BC 388 - CC Hayuelos #4
+  - file: notebooks/individual/Notebook BC 689 - Metropolis #5
+  - file: notebooks/individual/Notebook BC 802 - Puerto Lopez #6
