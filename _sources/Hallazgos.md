@@ -4,7 +4,7 @@
 
 </div>
 
-Enero 2024
+Febrero 2024
 ## Tener presente:
 
 1. Las pérdidas de datos en el totalizador pueden hacer parecer como que los consumos de AA o Iluminación superan al totalizador.
@@ -15,7 +15,7 @@ Enero 2024
 
 ## Observaciones generales:
 
-Se inicia la Fase 2 de monitoreo con 6 sedes, utilizando los consumos de diciembre de 2023 como línea de referencia, y con el periodo de estudio siendo el mes de enero de 2024.
+Se inicia la Fase 2 de monitoreo con 6 sedes, utilizando los consumos de diciembre de 2023 y enero 2024 como línea de referencia, y con el periodo de estudio siendo el mes de Febrero de 2024.
 
 - BC 332 - Zipaquira   
 - BC 367 - Granada Meta 
@@ -36,12 +36,16 @@ Se inicia la Fase 2 de monitoreo con 6 sedes, utilizando los consumos de diciemb
 
 - La sede presenta un pico de consumo a las 00:00 horas lo cual se sugiere validar automatización del sistema AA.
 
-<!--## BC 384 - Anapoima  -->
+## BC 384 - Anapoima 
+
+- El consumo de energía de Febrero fue 2937 kWh Para el mes de Febrero se consumió 167 kWh más en comparación al mes anterior Enero con 2770, lo que representa un 6.03% más de consumo
+
 ## BC 388 - CC Hayuelos
 
 - Se debe validar la configuración del apagado del aire acondicionado, ya que se observan desviaciones durante las horas nocturnas.
 
 - La sede presenta consumos nocturnos del 27 al 29 febrero, se debe validar si no se presentaron trabajos operativos.
+
 ## BC 689 - Metropolis
 
 - La sede presenta cambio en el patrón del consumo del AA a partir del 19 enero , se debe validar si no se presentaron trabajos operativos.
