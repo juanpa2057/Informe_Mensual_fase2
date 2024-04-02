@@ -4,7 +4,7 @@
 
 </div>
 
-Febrero 2024
+Marzo 2024
 ## Tener presente:
 
 1. Las pérdidas de datos en el totalizador pueden hacer parecer como que los consumos de AA o Iluminación superan al totalizador.
@@ -15,7 +15,7 @@ Febrero 2024
 
 ## Observaciones generales:
 
-Se inicia la Fase 2 de monitoreo con 6 sedes, utilizando los consumos de diciembre de 2023 y enero 2024 como línea de referencia, y con el periodo de estudio siendo el mes de Febrero de 2024.
+Se inicia la Fase 2 de monitoreo con 6 sedes, utilizando los consumos de diciembre de 2023 y enero 2024 como línea de referencia, y con el periodo de estudio siendo el mes de Marzo de 2024.
 
 - BC 332 - Zipaquira   
 - BC 367 - Granada Meta 
@@ -28,29 +28,32 @@ Se inicia la Fase 2 de monitoreo con 6 sedes, utilizando los consumos de diciemb
 ## Observaciones específicas:
 
 
-## BC 332 - Zipaquira
+<!--## BC 332 - Zipaquira
 
-- La sede presenta bajos consumos de energía, se solicita  los ultimos consumos de facturacíon para validar.
+- La sede presenta bajos consumos de energía, se solicita  los ultimos consumos de facturacíon para validar.-->
 
 ## BC 367 - Granada Meta
 
-- La sede presenta un pico de consumo a las 00:00 horas lo cual se sugiere validar automatización del sistema AA.
+- La sede presenta un pico de consumo a las 00:00 horas y un comportamiento de baja carga en días no laborales. lo cual se sugiere validar automatización del sistema AA.
 
 ## BC 384 - Anapoima 
 
-- El consumo de energía de Febrero fue 2937 kWh Para el mes de Febrero se consumió 167 kWh más en comparación al mes anterior Enero con 2770, lo que representa un 6.03% más de consumo
+- El consumo de energía de Marzo fue 2950 kWh, para el mes de Marzo se consumió 13 kWh más en comparación al mes anterior Febrero con 2937, lo que representa un 0.44% más de consumo
+
+- La hora de apagado tuvo una mejora significativa con respecto al mes anterior.
 
 ## BC 388 - CC Hayuelos
 
-- Se debe validar la configuración del apagado del aire acondicionado, ya que se observan desviaciones durante las horas nocturnas.
+- La hora de apagado tuvo una mejora significativa con respecto al mes anterior.
 
-- La sede presenta consumos nocturnos del 27 al 29 febrero, se debe validar si no se presentaron trabajos operativos.
 
 ## BC 689 - Metropolis
 
-- La sede presenta cambio en el patrón del consumo del AA a partir del 19 enero , se debe validar si no se presentaron trabajos operativos.
+- El consumo de energía de Marzo fue 4062 kWh, para el mes de Marzo se consumió 253 kWh más en comparación al mes anterior Febrero con 3809, lo que representa un 6.64% más de consumo
+
+- El Aire acondicionado funcionó normalmente para los días festivos y días de Semana Santa, mientras que la iluminación se mantuvo apagada.
 
 
 ## BC 802 - Puerto Lopez
 
-- Se debe validar el consumo nocturno , debido a que se presenta una carga en funcionamiento para la medida totalizadora.
+- El consumo de energía de Marzo fue 4490 kWh, para el mes de Marzo se consumió 30 kWh más en comparación al mes anterior Febrero con 4460, lo que representa un 0.67% más de consumo

@@ -5,9 +5,9 @@
 # 
 # # Resumen
 # 
-# Febrero de 2024
+# Marzo de 2024
 
-# ¡Hola!, te presentamos el informe correspondiente a tus consumos del mes de Febrero 2024. A continuación vas a encontrar un resumen de los consumos realizados de forma acumulada. Para esto encontrarás una serie de gráficas diseñadas para dar un vistazo a los consumos por sede. Finalmente, encontrarás un informe detallado para cada sede.
+# ¡Hola!, te presentamos el informe correspondiente a tus consumos del mes de Marzo 2024. A continuación vas a encontrar un resumen de los consumos realizados de forma acumulada. Para esto encontrarás una serie de gráficas diseñadas para dar un vistazo a los consumos por sede. Finalmente, encontrarás un informe detallado para cada sede.
 
 # ## Definitions
 # 
@@ -81,7 +81,7 @@ df_info['automated'] = df_info['automated'].map({'Sí':True,'NO':False})
 # In[3]:
 
 
-df = pd.read_pickle(r"C:\Proyectos Digitalización\Bancolombia\CB_informe_Fase_2\data\data_weekly_report.pkl")
+df = pd.read_pickle(r"C:\Digitalización\Fase 2\Informe_Mensual_fase2\data\data_weekly_report.pkl")
 
 # Legacy code (including the library) expects these column names
 # but the new Ubidots library returns more specific column names
@@ -203,7 +203,7 @@ fig.show()
 # 
 # A continuación mostramos la distribución geográfica de las intensidades de consumo para las diferentes sedes.
 
-# In[11]:
+# In[10]:
 
 
 """
@@ -262,7 +262,7 @@ fig.show()
 
 # De las sedes monitoreadas las que presentan mayor intensidad de consumo son Granada Meta, CC Hayuelos y Puerto Lopez. También podemos notar que en general entre sedes cercanas hay intensidades de consumo similares.
 
-# In[12]:
+# In[11]:
 
 
 fig = px.pie(sizes, values="Consumo - MWh", names='device_name', hover_data=['Consumo - MWh'], labels={'Consumo - MWh'})
@@ -275,7 +275,7 @@ fig.show()
 
 # La figura anterior es simplemente otra manera de visualizar la distribución del consumo. A continuación vemos la contribución de los equipos de climatización e iluminación al consumo en cada sede y al consumo agregado entre sedes.
 
-# In[13]:
+# In[12]:
 
 
 """
@@ -438,7 +438,7 @@ Megamall_aa = Megamall_cargas[Megamall_cargas["variable"]=="aa-consumo-activa"][
 """
 
 
-# In[14]:
+# In[13]:
 
 
 """

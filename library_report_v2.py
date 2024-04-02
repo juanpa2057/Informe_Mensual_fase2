@@ -12,7 +12,7 @@ pio.templates.default = "plotly_white"
 
 
 class Configuration:
-    PRIMARY_PALETTE = ['#d5752d', '#59595b']
+    PRIMARY_PALETTE = ['#fc7703', '#59595b']
     SECONDARY_PALETTE = ['#13a2e1', '#00be91', '#fff65e', '#003fa2', '#ca0045']
     FULL_PALETTE = PRIMARY_PALETTE + SECONDARY_PALETTE
 
