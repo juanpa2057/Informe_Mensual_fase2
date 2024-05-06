@@ -4,7 +4,7 @@
 
 </div>
 
-Marzo 2024
+Abril 2024
 ## Tener presente:
 
 1. Las pérdidas de datos en el totalizador pueden hacer parecer como que los consumos de AA o Iluminación superan al totalizador.
@@ -15,45 +15,70 @@ Marzo 2024
 
 ## Observaciones generales:
 
-Se inicia la Fase 2 de monitoreo con 6 sedes, utilizando los consumos de diciembre de 2023 y enero 2024 como línea de referencia, y con el periodo de estudio siendo el mes de Marzo de 2024.
-
-- BC 332 - Zipaquira   
-- BC 367 - Granada Meta 
-- BC 384 - Anapoima 
-- BC 388 - CC Hayuelos 
-- BC 689 - Metropolis 
-- BC 802 - Puerto Lopez 
+Se continua la Fase 2 de monitoreo con la integración de 17 sedes, utilizando como línea de referencia los consumos desde diciembre de 2023 hasta marzo de 2024, obteniendo un total de 23 sedes con monitoreo instalado.
 
 
 ## Observaciones específicas:
 
+<!--## BC 73 - Pereira -->
+## BC 81 - Avenida Kennedy 
 
-<!--## BC 332 - Zipaquira
+- La sede presenta problemas con la automatización, manteniendo encendidos los equipos de aire acondicionado durante los fines de semana.
 
-- La sede presenta bajos consumos de energía, se solicita  los ultimos consumos de facturacíon para validar.-->
+- El consumo de energía de Abril fue 17036 kWh. Para el mes de Abril se consumió 2231 kWh más en comparación al mes anterior Marzo con 14805, lo que representa un 15.07% más de consumo
 
+<!--## BC 111 Corozal-->
+
+## BC 115 - Circunvalar Pereira
+
+- La sede presenta patrones de consumo irregulares, apagando por completo el sistema de aires en un horario más tarde de lo habitual.
+<!--## BC 265 - Valle de Lili -->
+## BC 332 - Zipaquira
+
+- El consumo de energía de Abril fue 2525 kWh. Para el mes de Abril se consumió 49 kWh más en comparación al mes anterior Marzo con 2476, lo que representa un 1.98% más de consumo.
 ## BC 367 - Granada Meta
 
-- La sede presenta un pico de consumo a las 00:00 horas y un comportamiento de baja carga en días no laborales. lo cual se sugiere validar automatización del sistema AA.
+- El consumo de energía de Abril fue 7393 kWh. Para el mes de Abril se consumió 328 kWh menos en comparación al mes anterior Marzo con 7721, lo que representa un 4.25% menos de consumo.
 
 ## BC 384 - Anapoima 
 
-- El consumo de energía de Marzo fue 2950 kWh, para el mes de Marzo se consumió 13 kWh más en comparación al mes anterior Febrero con 2937, lo que representa un 0.44% más de consumo
+- El consumo de energía de Abril fue 2872 kWh. Para el mes de Abril se consumió 78 kWh menos en comparación al mes anterior Marzo con 2950, lo que representa un 2.64% menos de consumo.
 
-- La hora de apagado tuvo una mejora significativa con respecto al mes anterior.
+<!--## BC 388 - CC Hayuelos
 
-## BC 388 - CC Hayuelos
+- La hora de apagado tuvo una mejora significativa con respecto al mes anterior.-->
 
-- La hora de apagado tuvo una mejora significativa con respecto al mes anterior.
+<!--## BC 478 - Mix Vía 40 -->
+<!--## BC 513 - El Difícil -->
 
+<!--## BC 516 - Santa Marta -->
+<!--## BC 517 - El Rodadero -->
+
+## BC 554 - Mall Plaza Buenavista
+
+- La sede comenzó el monitoreo con una gran oportunidad de mejora en las horas de apagado del sistema de aire acondicionado.
+
+- Durante el transcurso del mes se notó el cambio del patrón de consumo resultando en una mejora significativa.
+
+<!-- ## BC 681 - Cerete -->
+
+<!-- ## BC 687 - Planeta Rica -->
 
 ## BC 689 - Metropolis
 
-- El consumo de energía de Marzo fue 4062 kWh, para el mes de Marzo se consumió 253 kWh más en comparación al mes anterior Febrero con 3809, lo que representa un 6.64% más de consumo
+- El consumo de energía de Abril fue 3935 kWh, para el mes de Abril se consumió 127 kWh menos en comparación al mes anterior Marzo con 4062, lo que representa un 3.13% menos de consumo.
 
-- El Aire acondicionado funcionó normalmente para los días festivos y días de Semana Santa, mientras que la iluminación se mantuvo apagada.
+<!-- ##BC 733 - La Unión Valle -->
+
+<!-- BC 772 - Caicedonia -->
+
+<!-- BC 775 - Bulevar 54 -->
+
+<!-- BC 777 - Parque Washington -->
+
+<!-- ## BC 781 - Prado Plaza  -->
 
 
 ## BC 802 - Puerto Lopez
 
-- El consumo de energía de Marzo fue 4490 kWh, para el mes de Marzo se consumió 30 kWh más en comparación al mes anterior Febrero con 4460, lo que representa un 0.67% más de consumo
+- El consumo de energía de Abril fue 4640 kWh, para el mes de Abril se consumió 150 kWh más en comparación al mes anterior Marzo con 4490, lo que representa un 3.34% más de consumo.
