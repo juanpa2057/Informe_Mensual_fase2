@@ -6,10 +6,26 @@ root: intro
 chapters:
   - file: notebooks/summary/Notebook BC Resumen
   - file: Hallazgos
-
-  - file: notebooks/individual/Notebook BC 332 - Zipaquira   #1
-  - file: notebooks/individual/Notebook BC 367 - Granada Meta #2
-  - file: notebooks/individual/Notebook BC 384 - Anapoima #3
-  - file: notebooks/individual/Notebook BC 388 - CC Hayuelos #4
-  - file: notebooks/individual/Notebook BC 689 - Metropolis #5
-  - file: notebooks/individual/Notebook BC 802 - Puerto Lopez #6
+  - file: notebooks/individual/Notebook BC 73 - Pereira
+  - file: notebooks/individual/Notebook BC 81 - Avenida Kennedy
+  - file: notebooks/individual/Notebook BC 111 - Corozal
+  - file: notebooks/individual/Notebook BC 115 - Circunvalar Pereira
+  - file: notebooks/individual/Notebook BC 265 - Valle de Lili
+  - file: notebooks/individual/Notebook BC 332 - Zipaquira
+  - file: notebooks/individual/Notebook BC 367 - Granada Meta
+  - file: notebooks/individual/Notebook BC 384 - Anapoima
+  - file: notebooks/individual/Notebook BC 388 - CC Hayuelos
+  - file: notebooks/individual/Notebook BC 478 - Mix Vía 40
+  - file: notebooks/individual/Notebook BC 513 - El Dificil
+  - file: notebooks/individual/Notebook BC 516 - Santa Marta
+  - file: notebooks/individual/Notebook BC 517 - El Rodadero
+  - file: notebooks/individual/Notebook BC 554 - Mall Plaza Buenavista
+  - file: notebooks/individual/Notebook BC 681 - Cerete
+  - file: notebooks/individual/Notebook BC  687 - Planeta Rica
+  - file: notebooks/individual/Notebook BC 689 - Metropolis
+  - file: notebooks/individual/Notebook BC 733 - La Unión Valle
+  - file: notebooks/individual/Notebook BC 772 - Caicedonia
+  - file: notebooks/individual/Notebook BC 775 - Bulevar 54
+  - file: notebooks/individual/Notebook BC 777 - Parque Washington
+  - file: notebooks/individual/Notebook BC 781 - Prado Plaza
+  - file: notebooks/individual/Notebook BC 802 - Puerto Lopez
