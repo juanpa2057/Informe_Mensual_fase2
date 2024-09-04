@@ -4,7 +4,7 @@
 
 </div>
 
-Julio 2024
+Agosto 2024
 ## Tener presente:
 
 1. Las pérdidas de datos en el totalizador pueden hacer parecer como que los consumos de AA o Iluminación superan al totalizador.
@@ -19,42 +19,45 @@ Se continua la Fase 2 de monitoreo con la integración de 24 sedes, utilizando c
 
 ## Observaciones específicas:
 
-## BC 73 - Pereira 
+<!--## BC 73 - Pereira 
 
-- El consumo de energía de Julio fue 6442 kWh, para el mes de Julio se consumió 742 kWh más en comparación al mes anterior Junio con 5701, lo que representa un 13.01% más de consumo
+- El consumo de energía de Julio fue 6442 kWh, para el mes de Julio se consumió 742 kWh más en comparación al mes anterior Junio con 5701, lo que representa un 13.01% más de consumo -->
+
+<!-- ## BC 79 - La Quinta Ibague-->
 
 ## BC 81 - Avenida Kennedy 
 
 - La sede presenta problemas con la automatización, manteniendo encendidos los equipos de aire acondicionado durante los fines de semana.
 
-- Durante la última semana del mes, la sede presentó consumos nocturnos elevados.
+<!--- Durante la última semana del mes, la sede presentó consumos nocturnos elevados.--->
 
 ## BC 111 Corozal
 
 - La sede presenta problemas con la medición se está gestionando el arreglo de estas medidas.
 
-## BC 115 - Circunvalar Pereira
+<!--## BC 115 - Circunvalar Pereira
 
-- EEl consumo de energía de Julio fue 6027 kWh. para el mes de Julio se consumió 595 kWh más en comparación al mes anterior Junio con 5432, lo que representa un 10.95% más de consumo.
+- El consumo de energía de Julio fue 6027 kWh. para el mes de Julio se consumió 595 kWh más en comparación al mes anterior Junio con 5432, lo que representa un 10.95% más de consumo.-->
 
 ## BC 221 - Soacha
 
-- La sede tuvo problemas con la comunicación de la frontera duranmte las primeras semanas del mes.
+- La sede elevo sus consumo nocturnos, a partir del 15 de agosto, validad la razón.
 
-## BC 265 - Valle de Lili
+<!--## BC 265 - Valle de Lili
 
-- El consumo de energía de Julio fue 3283 kWh, para el mes de Julio se consumió 797 kWh más en comparación al mes anterior Junio con 2486, lo que representa un 32.06% más de consumo
+- El consumo de energía de Julio fue 3283 kWh, para el mes de Julio se consumió 797 kWh más en comparación al mes anterior Junio con 2486, lo que representa un 32.06% más de consumo -->
 
-<!--## BC 332 - Zipaquira
+## BC 332 - Zipaquira
 
-- El consumo de energía de Abril fue 2525 kWh. Para el mes de Abril se consumió 49 kWh más en comparación al mes anterior Marzo con 2476, lo que representa un 1.98% más de consumo.-->
+- El consumo de energía de Agosto fue 2546 kWh, para el mes de Agosto se consumió 147 kWh menos en comparación al mes anterior Julio con 2693, lo que representa un 5.46% menos de consumo.
+
 ## BC 367 - Granada Meta
 
-- El consumo de energía de Julio fue 6448 kWh para el mes de Julio se consumió 324 kWh más en comparación al mes anterior Junio con 6124, lo que representa un 5.29% más de consumo.
+- Se perdió la comunicación con la sede, el día 21 de Agosto
 
-## BC 384 - Anapoima 
+<!--## BC 384 - Anapoima 
 
-- El consumo de energía de Julio fue 2829 kWh para el mes de Julio se consumió 350 kWh más en comparación al mes anterior Junio con 2479, lo que representa un 14.12% más de consumo
+- El consumo de energía de Julio fue 2829 kWh para el mes de Julio se consumió 350 kWh más en comparación al mes anterior Junio con 2479, lo que representa un 14.12% más de consumo -->
 
 ## BC 388 - CC Hayuelos
 
@@ -66,15 +69,18 @@ Se continua la Fase 2 de monitoreo con la integración de 24 sedes, utilizando c
 
 ## BC 478 - Mix Vía 40
 
-- El consumo de energía de Julio fue 6276 kWh, para el mes de Julio se consumió 1081 kWh más en comparación al mes anterior Junio con 5195, lo que representa un 20.82% más de consumo.
+- El patrón de consumo nocturno fue irregular durante todo el mes, revisar que está sucediendo con la automatización.
 
-- La sede presentó un patrón de consumo irregular en la tercera semana del mes.
+
+<!-- ## BC 479 - Pamplona -->
+
+
 
 ## BC 513 - El Difícil 
 
-- La sede presentó un patrón de consumo irregular durante el mes completo, incrementando el consumo de energía.
+- La sede mejoró su patrón de consumo, lo que se vio reflejado en la reducción de consumo al final del mes.
 
-- El consumo de energía de Julio fue 5009 kWh, para el mes de Julio se consumió 1062 kWh más en comparación al mes anterior Junio con 3947, lo que representa un 26.91% más de consumo.
+- El consumo de energía de Agosto fue 4289 kWh, para el mes de Agosto se consumió 720 kWh menos en comparación al mes anterior Julio con 5009, lo que representa un 14.37% menos de consumo.
 
 <!--## BC 516 - Santa Marta
 
@@ -92,34 +98,40 @@ Se continua la Fase 2 de monitoreo con la integración de 24 sedes, utilizando c
 
 - Se debe atender el no apagado del sistema de aires que se presenta las noches de los días viernes.
 
-## BC 681 - Cerete
 
-- El consumo de energía de Julio fue 6231 kWh. para el mes de Julio se consumió 937 kWh más en comparación al mes anterior Junio con 5294, lo que representa un 17.70% más de consumo.
+<!-- ## BC 583 - Riosucio -->
 
-## BC 687 - Planeta Rica
+<!-- ## BC 619 - Plaza del Bosque Ibague -->
 
-- El consumo de energía de Julio fue 4586 kWh. para el mes de Julio se consumió 1210 kWh más en comparación al mes anterior Junio con 3376, lo que representa un 35.84% más de consumo.
+<!--## BC 681 - Cerete
+
+- El consumo de energía de Julio fue 6231 kWh. para el mes de Julio se consumió 937 kWh más en comparación al mes anterior Junio con 5294, lo que representa un 17.70% más de consumo. -->
+
+<!--## BC 687 - Planeta Rica
+
+- El consumo de energía de Julio fue 4586 kWh. para el mes de Julio se consumió 1210 kWh más en comparación al mes anterior Junio con 3376, lo que representa un 35.84% más de consumo.-->
 
 <!--## BC 689 - Metropolis
 
 - El consumo de energía de Junio fue 2584 kWh para el mes de Junio se consumió 708 kWh menos en comparación al mes anterior Mayo con 3292, lo que representa un 21.51% menos de consumo. -->
 
-<!--## BC 733 - La Unión Valle
+## BC 733 - La Unión Valle
 
-- La sede presentó un patrón de consumo irregular durante el mes de junio.-->
+- La sede presentó patrones de consumo irregulares las dos primeras semanas del mes.
 
-<!-- BC 772 - Caicedonia -->
+## BC 772 - Caicedonia 
+
+- La sede presentó patrones de consumo nocturno irregulares las dos primeras semanas del mes.
 
 ## BC 775 - Bulevar 54
 
-- El consumo de energía de Julio fue 7628 kWh, para el mes de Julio se consumió 1445 kWh más en comparación al mes anterior Junio con 6183, lo que representa un 23.37% más de consumo.
+- Durante la segunda semana del mes, la sede presentó un patrón de consumo atípico.
+
 ## BC 777 - Parque Washington
 
 - La sede mantiene el problema del apagado en los horarios nocturnos.
 
-- La sede presentó un patrón de consumo atípico al principio del mes, lo que procvocó el aumento del consumo.
-
-- El consumo de energía de Julio fue 7796 kWh. para el mes de Julio se consumió 1381 kWh más en comparación al mes anterior Junio con 6415, lo que representa un 21.53% más de consumo.
+- El consumo de energía de Agosto fue 6928 kWh, para el mes de Agosto se consumió 868 kWh menos en comparación al mes anterior Julio con 7796, lo que representa un 11.13% menos de consumo.
 
 <!-- ## BC 781 - Prado Plaza
 
@@ -131,3 +143,7 @@ Se continua la Fase 2 de monitoreo con la integración de 24 sedes, utilizando c
 <!-- ## BC 802 - Puerto Lopez
 
 - El consumo de energía de Junio fue 3810 kWh, para el mes de Junio se consumió 540 kWh menos en comparación al mes anterior Mayo con 4350, lo que representa un 12.41% menos de consumo. -->
+
+## BC 892 - La Vega
+
+- La medida de la frontera no coincide con el patrón de consumo del aire acondicionado.
