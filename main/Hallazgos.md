@@ -4,7 +4,7 @@
 
 </div>
 
-Agosto 2024
+Septiembre 2024
 ## Tener presente:
 
 1. Las pérdidas de datos en el totalizador pueden hacer parecer como que los consumos de AA o Iluminación superan al totalizador.
@@ -19,9 +19,9 @@ Se continua la Fase 2 de monitoreo con la integración de 24 sedes, utilizando c
 
 ## Observaciones específicas:
 
-<!--## BC 73 - Pereira 
+## BC 73 - Pereira 
 
-- El consumo de energía de Julio fue 6442 kWh, para el mes de Julio se consumió 742 kWh más en comparación al mes anterior Junio con 5701, lo que representa un 13.01% más de consumo -->
+- El consumo de energía de Septiembre fue 7555 kWh. para el mes de Septiembre se consumió 1087 kWh más en comparación al mes anterior Agosto con 6469, lo que representa un 16.80% más de consumo
 
 <!-- ## BC 79 - La Quinta Ibague-->
 
@@ -41,11 +41,11 @@ Se continua la Fase 2 de monitoreo con la integración de 24 sedes, utilizando c
 
 ## BC 221 - Soacha
 
-- La sede elevó sus consumo nocturnos, a partir del 15 de agosto, validar la razón.
+- La sede elevó sus consumo nocturnos, a partir del 15 de agosto, incrementando el valor del consumo mensual.
 
-<!--## BC 265 - Valle de Lili
+## BC 265 - Valle de Lili
 
-- El consumo de energía de Julio fue 3283 kWh, para el mes de Julio se consumió 797 kWh más en comparación al mes anterior Junio con 2486, lo que representa un 32.06% más de consumo -->
+- El consumo de energía de Septiembre fue 3968 kWh. para el mes de Septiembre se consumió 602 kWh más en comparación al mes anterior Agosto con 3366, lo que representa un 17.88% más de consumo
 
 ## BC 332 - Zipaquira
 
@@ -53,7 +53,7 @@ Se continua la Fase 2 de monitoreo con la integración de 24 sedes, utilizando c
 
 ## BC 367 - Granada Meta
 
-- Se perdió la comunicación con la sede, el día 21 de Agosto
+- La sede perdió la comunicación e día 5 de Septiembre y se reestablció el 20 de septiembre.
 
 <!--## BC 384 - Anapoima 
 
@@ -61,15 +61,17 @@ Se continua la Fase 2 de monitoreo con la integración de 24 sedes, utilizando c
 
 ## BC 388 - CC Hayuelos
 
-- La sede presenta problemas con la medición se está gestionando el arreglo de estas medidas.
+- La sede presentó consumos irregulares durante este mes, provocando el aumento final.
 
-## BC 461 - La carolina Unicentro
+- El consumo de energía de Septiembre fue 4944 kWh, para el mes de Septiembre se consumió 1016 kWh más en comparación al mes anterior Agosto con 3928, lo que representa un 25.87% más de consumo
 
-- La sede presenta problemas con la medición de la frontera.
+<!--## BC 461 - La carolina Unicentro
 
-## BC 478 - Mix Vía 40
+- La sede presenta problemas con la medición de la frontera.  -->
 
-- El patrón de consumo nocturno fue irregular durante todo el mes, revisar que está sucediendo con la automatización.
+<!-- ## BC 478 - Mix Vía 40
+
+- El patrón de consumo nocturno fue irregular durante todo el mes, revisar que está sucediendo con la automatización.-->
 
 
 <!-- ## BC 479 - Pamplona -->
@@ -78,9 +80,9 @@ Se continua la Fase 2 de monitoreo con la integración de 24 sedes, utilizando c
 
 ## BC 513 - El Difícil 
 
-- La sede mejoró su patrón de consumo, lo que se vio reflejado en la reducción de consumo al final del mes.
+- La sede tuvo problemas con el patrón de consumo durante la tercera semana del mes de septiembre, aún así disminuyó su consumo en relación al anterior mes 
 
-- El consumo de energía de Agosto fue 4289 kWh, para el mes de Agosto se consumió 720 kWh menos en comparación al mes anterior Julio con 5009, lo que representa un 14.37% menos de consumo.
+- El consumo de energía de Septiembre fue 4180 kWh. para el mes de Septiembre se consumió 109 kWh menos en comparación al mes anterior Agosto con 4289, lo que representa un 2.54% menos de consumo
 
 <!--## BC 516 - Santa Marta
 
@@ -113,19 +115,21 @@ Se continua la Fase 2 de monitoreo con la integración de 24 sedes, utilizando c
 
 <!--## BC 689 - Metropolis
 
-- El consumo de energía de Junio fue 2584 kWh para el mes de Junio se consumió 708 kWh menos en comparación al mes anterior Mayo con 3292, lo que representa un 21.51% menos de consumo. -->
+
 
 ## BC 733 - La Unión Valle
 
-- La sede presentó patrones de consumo irregulares las dos primeras semanas del mes.
+- La sede presentó patrones de consumo irregulares las dos primeras semanas del mes.-->
 
 ## BC 772 - Caicedonia 
 
-- La sede presentó patrones de consumo nocturno irregulares las dos primeras semanas del mes.
+- La sede presentó patrones de consumo nocturno irregulares durante la última semana del mes.
 
-## BC 775 - Bulevar 54
+- El consumo de energía de Septiembre fue 2724 kWh. para el mes de Septiembre se consumió 143 kWh más en comparación al mes anterior Agosto con 2581, lo que representa un 5.54% más de consumo
 
-- Durante la segunda semana del mes, la sede presentó un patrón de consumo atípico.
+<!--## BC 775 - Bulevar 54
+
+- Durante la segunda semana del mes, la sede presentó un patrón de consumo atípico. -->
 
 ## BC 777 - Parque Washington
 
@@ -146,4 +150,4 @@ Se continua la Fase 2 de monitoreo con la integración de 24 sedes, utilizando c
 
 ## BC 892 - La Vega
 
-- La medida de la frontera no coincide con el patrón de consumo del aire acondicionado.
+- El consumo de energía de Septiembre fue 1239 kWh. para el mes de Septiembre se consumió 535 kWh menos en comparación al mes anterior Agosto con 1774, lo que representa un 30.17% menos de consumo.
