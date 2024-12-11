@@ -4,7 +4,7 @@
 
 </div>
 
-Octubre 2024
+Noviembre 2024
 ## Tener presente:
 
 1. Las pérdidas de datos en el totalizador pueden hacer parecer como que los consumos de AA o Iluminación superan al totalizador.
@@ -29,6 +29,8 @@ Se continua la Fase 2 de monitoreo con la integración de 24 sedes, utilizando c
 
 - La sede presenta problemas con la automatización, manteniendo encendidos los equipos de aire acondicionado durante los fines de semana.
 
+- El consumo de energía de Noviembre fue 14279 kWh, para el mes de Noviembre se consumió 3071 kWh menos en comparación al mes anterior Octubre con 17349, lo que representa un 17.70% menos de consumo.
+
 <!--- Durante la última semana del mes, la sede presentó consumos nocturnos elevados.--->
 
 ## BC 111 Corozal
@@ -39,17 +41,19 @@ Se continua la Fase 2 de monitoreo con la integración de 24 sedes, utilizando c
 
 - El consumo de energía de Julio fue 6027 kWh. para el mes de Julio se consumió 595 kWh más en comparación al mes anterior Junio con 5432, lo que representa un 10.95% más de consumo.-->
 
-<!-- ## BC 138 - Mosquera -->
+## BC 138 - Mosquera
 
-## BC 221 - Soacha
+- La sede presentó un problema de comunicació el día 12 de noviembre hasta la fecha.
+
+<!--## BC 221 - Soacha
 
 - La sede elevó sus consumo con respecto a la línea base a partir del 15 de octubre, incrementando el valor del consumo mensual.
 
-- El consumo de energía de Octubre fue 3475 kWh, para el mes de Octubre se consumió 37 kWh más en comparación al mes anterior Septiembre con 3438, lo que representa un 1.08% más de consumo.
+- El consumo de energía de Octubre fue 3475 kWh, para el mes de Octubre se consumió 37 kWh más en comparación al mes anterior Septiembre con 3438, lo que representa un 1.08% más de consumo. -->
 
 ## BC 265 - Valle de Lili
 
-- El consumo de energía de Octubre fue 3219 kWh, para el mes de Octubre se consumió 749 kWh menos en comparación al mes anterior Septiembre con 3968, lo que representa un 18.88% menos de consumo.
+- El consumo de energía de Noviembre fue 2591 kWh, para el mes de Noviembre se consumió 628 kWh menos en comparación al mes anterior Octubre con 3219, lo que representa un 19.51% menos de consumo.
 
 ## BC 332 - Zipaquira
 
@@ -61,23 +65,24 @@ Se continua la Fase 2 de monitoreo con la integración de 24 sedes, utilizando c
 
 - La sede perdió la comunicación e día 5 de Septiembre y se reestablció el 20 de septiembre.-->
 
-<!--## BC 384 - Anapoima 
+## BC 384 - Anapoima 
 
-- El consumo de energía de Julio fue 2829 kWh para el mes de Julio se consumió 350 kWh más en comparación al mes anterior Junio con 2479, lo que representa un 14.12% más de consumo -->
+- El consumo de energía de Noviembre fue 2645 kWh, para el mes de Noviembre se consumió 139 kWh menos en comparación al mes anterior Octubre con 2784, lo que representa un 4.99% menos de consumo.
+
+- La sede presentó una mejora en el consumo durante horarios laborales, sin embargo presentó un aumento en horarios nocturnos o no operativos.
 
 ## BC 388 - CC Hayuelos
 
-- Durante este mes la sede mejoró sus horas de apagado, representano mejoría en su consumo final.
+- La sede presentó consumos nocturnos elevados durante el mes
 
-- El consumo de energía de Octubre fue 4222 kWh. para el mes de Octubre se consumió 722 kWh menos en comparación al mes anterior Septiembre con 4944, lo que representa un 14.60% menos de consumo.
+<!-- - El consumo de energía de Octubre fue 4222 kWh. para el mes de Octubre se consumió 722 kWh menos en comparación al mes anterior Septiembre con 4944, lo que representa un 14.60% menos de consumo.  -->
 
 <!--## BC 415 - El Retiro -->
 
 ## BC 461 - La carolina Unicentro
 
-- Presentó consumos atípicos la tercer y cuarta semana del mes, provocando un alza en el consumo final del mes.
+- La sede presentó consumos atípicos la primer semana del mes, despues, la sede mejoró su patrón de consumo
 
-- El consumo de energía de Octubre fue 1456 kWh, para el mes de Octubre se consumió 47 kWh más en comparación al mes anterior Septiembre con 1409, lo que representa un 3.32% más de consumo
 
 <!-- ## BC 478 - Mix Vía 40
 
@@ -94,13 +99,16 @@ Se continua la Fase 2 de monitoreo con la integración de 24 sedes, utilizando c
 
 - El consumo de energía de Septiembre fue 4180 kWh. para el mes de Septiembre se consumió 109 kWh menos en comparación al mes anterior Agosto con 4289, lo que representa un 2.54% menos de consumo -->
 
-<!--## BC 516 - Santa Marta
+## BC 516 - Santa Marta
 
-- El consumo de energía de Mayo fue 11940 kWh, para el mes de Mayo se consumió 1672 kWh menos en comparación al mes anterior Abril con 13612, lo que representa un 12.28% menos de consumo._-->
+- La sede redujo sus consumos en horario laboral.
 
-<!--## BC 517 - El Rodadero
+- El consumo de energía de Noviembre fue 8118 kWh, para el mes de Noviembre se consumió 1066 kWh menos en comparación al mes anterior Octubre con 9184, lo que representa un 11.61% menos de consumo
 
-- La sede durante dos lunes seguidos presento consumos nocturnos elevados.-->
+## BC 517 - El Rodadero
+
+- El consumo de energía de Noviembre fue 4719 kWh
+Para el mes de Noviembre se consumió 732 kWh menos en comparación al mes anterior Octubre con 5451, lo que representa un 13.43% menos de consumo
 
 ## BC 554 - Mall Plaza Buenavista
 
@@ -113,11 +121,13 @@ Se continua la Fase 2 de monitoreo con la integración de 24 sedes, utilizando c
 
 <!-- ## BC 583 - Riosucio -->
 
-<!-- ## BC 619 - Plaza del Bosque Ibague -->
+## BC 619 - Plaza del Bosque Ibague
 
-## BC 673 - Calle 80
+- El consumo de energía de Noviembre fue 2693 kWh, para el mes de Noviembre se consumió 608 kWh menos en comparación al mes anterior Octubre con 3301, lo que representa un 18.42% menos de consumo
 
-- El consumo de energía de Octubre fue 3484 kWh. para el mes de Octubre se consumió 445 kWh más en comparación al mes anterior Septiembre con 3039, lo que representa un 14.66% más de consumo
+<!-- ## BC 673 - Calle 80
+
+- El consumo de energía de Octubre fue 3484 kWh. para el mes de Octubre se consumió 445 kWh más en comparación al mes anterior Septiembre con 3039, lo que representa un 14.66% más de consumo-->
 
 
 <!--## BC 681 - Cerete
@@ -128,31 +138,33 @@ Se continua la Fase 2 de monitoreo con la integración de 24 sedes, utilizando c
 
 - El consumo de energía de Julio fue 4586 kWh. para el mes de Julio se consumió 1210 kWh más en comparación al mes anterior Junio con 3376, lo que representa un 35.84% más de consumo.-->
 
-<!--## BC 689 - Metropolis
+<!--## BC 689 - Metropolis-->
 
 
 
 ## BC 733 - La Unión Valle
 
-- La sede presentó patrones de consumo irregulares las dos primeras semanas del mes.-->
+- La sede redujo su consumo con respecto a la línea bese en horarios laborales.
 
-## BC 772 - Caicedonia 
+- El consumo de energía de Noviembre fue 4035 kWh, para el mes de Noviembre se consumió 577 kWh menos en comparación al mes anterior Octubre con 4612, lo que representa un 12.51% menos de consumo.
+
+<!--## BC 772 - Caicedonia 
 
 - La sede redujo su consumo en horarios nocturnos en comparación con la línea base.
 
-- El consumo de energía de Octubre fue 2639 kWh, para el mes de Octubre se consumió 85 kWh menos en comparación al mes anterior Septiembre con 2724, lo que representa un 3.12% menos de consumo.
+- El consumo de energía de Octubre fue 2639 kWh, para el mes de Octubre se consumió 85 kWh menos en comparación al mes anterior Septiembre con 2724, lo que representa un 3.12% menos de consumo.-->
 
-<!--## BC 775 - Bulevar 54
+## BC 775 - Bulevar 54
 
-- Durante la segunda semana del mes, la sede presentó un patrón de consumo atípico. -->
+- La sede redujo su consumo con respecto a la línea bese en horarios laborales.
+
+- El consumo de energía de Noviembre fue 6015 kWh, para el mes de Noviembre se consumió 1170 kWh menos en comparación al mes anterior Octubre con 7185, lo que representa un 16.28% menos de consumo
 
 ## BC 777 - Parque Washington
 
 - La sede comenzo a tener problemas con la automatización a finales del mes, con consumos en horarios festivos y un daño del patrón de consumo.
 
 - La sede mantiene el problema del apagado en los horarios nocturnos.
-
-- El consumo de energía de Octubre fue 7535 kWh, para el mes de Octubre se consumió 493 kWh más en comparación al mes anterior Septiembre con 7042, lo que representa un 7.00% más de consumo.
 
 <!-- ## BC 781 - Prado Plaza
 
@@ -167,18 +179,18 @@ Se continua la Fase 2 de monitoreo con la integración de 24 sedes, utilizando c
 
 ## BC 832 - San Francisco de Paula
 
-- La sede durante este mes presentó consumos parciales durante los finaes de semana y en horarios nocturnos.
+- La sede redujo su consumo con respecto a la línea bese en horarios laborales
 
-- El consumo de energía de Octubre fue 6487 kWh, para el mes de Octubre se consumió 502 kWh más en comparación al mes anterior Septiembre con 5985, lo que representa un 8.39% más de consumo.
+- El consumo de energía de Noviembre fue 5208 kWh, para el mes de Noviembre se consumió 1279 kWh menos en comparación al mes anterior Octubre con 6487, lo que representa un 19.72% menos de consumo
 
 ## BC 892 - La Vega
 
-- La sede inició el mes con un patrón de consumo irregular, a partir del 21 de octubre se tomaron medidas que areglaron esta tendencia, siendo en el momento completamente estable.
+- La sede redujo su consumo con respecto a la línea bese en horarios laborales
 
-- El consumo de energía de Octubre fue 1517 kWh, para el mes de Octubre se consumió 278 kWh más en comparación al mes anterior Septiembre con 1239, lo que representa un 22.41% más de consumo.
+- El consumo de energía de Noviembre fue 1233 kWh, para el mes de Noviembre se consumió 284 kWh menos en comparación al mes anterior Octubre con 1517, lo que representa un 18.74% menos de consumo
 
 <!-- ## BC - Jardin Plaza -->
 
-## BC - Metropolitan
+<!--## BC - Metropolitan
 
-- El consumo de energía de Octubre fue 22322 kWh, para el mes de Octubre se consumió 2437 kWh más en comparación al mes anterior Septiembre con 19885, lo que representa un 12.26% más de consumo
+- El consumo de energía de Octubre fue 22322 kWh, para el mes de Octubre se consumió 2437 kWh más en comparación al mes anterior Septiembre con 19885, lo que representa un 12.26% más de consumo -->
