@@ -4,7 +4,7 @@
 
 </div>
 
-Enero 2024
+Febrero 2024
 ## Tener presente:
 
 1. Las pérdidas de datos en el totalizador pueden hacer parecer como que los consumos de AA o Iluminación superan al totalizador.
@@ -15,13 +15,13 @@ Enero 2024
 
 ## Observaciones generales:
 
-Se continua la Fase 2 de monitoreo con la integración de 24 sedes, utilizando como línea de referencia los consumos desde diciembre de 2023 hasta Enero de 2024, obteniendo un total de 36 sedes con monitoreo instalado.
+Se continua la fase dos del proyecto de monitoreo, a la espera de nueva sucursales próximas a instalar, utilizando como línea de referencia los consumos desde diciembre de 2023 hasta febrero de 2025, obteniendo un total de 36 sedes con monitoreo instalado.
 
 ## Observaciones específicas:
 
 ## BC 73 - Pereira 
 
-- El consumo de energía de Enero fue 7942 kWh, para el mes de Enero se consumió 507 kWh más en comparación al mes anterior Diciembre con 7435, lo que representa un 6.82% más de consumo.
+- La sede presenta durante el mes de febrero, consumos debido a la operación del sistema de aire acondicionado en los fines de semana, se notifica que durante este mes en estos periodos se han estado realizando labores de mantenimiento.
 
 <!-- ## BC 79 - La Quinta Ibague-->
 
@@ -63,9 +63,9 @@ El consumo de energía de Diciembre fue 3356 kWh, para el mes de Diciembre se co
 
 <!-- ##BC 334 - El Peñol -->
 
-<!-- ## BC 367 - Granada Meta
+## BC 367 - Granada Meta
 
-- La sede perdió la comunicación e día 5 de Septiembre y se reestablció el 20 de septiembre.-->
+- Se reestableció comunicación con la sede el día 20 de febrero.
 
 <!-- ## BC 384 - Anapoima 
 
@@ -96,9 +96,9 @@ El consumo de energía de Diciembre fue 3356 kWh, para el mes de Diciembre se co
 - La sede presentó consumos atípicos la última semana del mes.-->
 
 
-<!-- ## BC 478 - Mix Vía 40
+## BC 478 - Mix Vía 40
 
-- El patrón de consumo nocturno fue irregular durante todo el mes, revisar que está sucediendo con la automatización.-->
+- La sede presentó un patrón de consumo atípico la segunda semana del mes de febrero.
 
 
 <!-- ## BC 479 - Pamplona -->
@@ -110,17 +110,12 @@ El consumo de energía de Diciembre fue 3356 kWh, para el mes de Diciembre se co
 - La sede tuvo problemas con el patrón de consumo durante la tercera semana del mes de septiembre, aún así disminuyó su consumo en relación al anterior mes 
 
 - El consumo de energía de Septiembre fue 4180 kWh. para el mes de Septiembre se consumió 109 kWh menos en comparación al mes anterior Agosto con 4289, lo que representa un 2.54% menos de consumo -->
+## BC 516 - Santa Marta
 
-<!--## BC 516 - Santa Marta
+- La sede aumentó su consumo con respecto a la línea base durante todo el mes.
+## BC 517 - El Rodadero
 
-- La sede redujo sus consumos en horario laboral.
-
-- El consumo de energía de Noviembre fue 8118 kWh, para el mes de Noviembre se consumió 1066 kWh menos en comparación al mes anterior Octubre con 9184, lo que representa un 11.61% menos de consumo -->
-
-<!--## BC 517 - El Rodadero
-
-- El consumo de energía de Noviembre fue 4719 kWh
-Para el mes de Noviembre se consumió 732 kWh menos en comparación al mes anterior Octubre con 5451, lo que representa un 13.43% menos de consumo-->
+- Durante la mayor parte del mes la sucursal presento un patrón de consumo irregular en horarios nocturnos.
 
 ## BC 554 - Mall Plaza Buenavista
 
@@ -130,16 +125,18 @@ Para el mes de Noviembre se consumió 732 kWh menos en comparación al mes anter
 
 - Se debe atender el no apagado del sistema de aires que se presenta las noches de los días viernes.
 
+- La sucursal pudo estar apagada durante el fin de semana del 8 al 10 de febrerom se debe validar las acciones que permitieron esta actividad.
+
 
 <!-- ## BC 583 - Riosucio -->
 
-<!--## BC 619 - Plaza del Bosque Ibague
+## BC 619 - Plaza del Bosque Ibague
 
-- El consumo de energía de Noviembre fue 2693 kWh, para el mes de Noviembre se consumió 608 kWh menos en comparación al mes anterior Octubre con 3301, lo que representa un 18.42% menos de consumo-->
+- La sucursal redujo su consumo con respecto a la línea base.
 
-<!-- ## BC 673 - Calle 80
+## BC 673 - Calle 80
 
-- El consumo de energía de Octubre fue 3484 kWh. para el mes de Octubre se consumió 445 kWh más en comparación al mes anterior Septiembre con 3039, lo que representa un 14.66% más de consumo-->
+- La sucursal aumentó su consumo a comparación con la línea base.
 
 
 <!--## BC 681 - Cerete
