@@ -4,7 +4,7 @@
 
 </div>
 
-Febrero 2024
+Marzo 2025
 ## Tener presente:
 
 1. Las pérdidas de datos en el totalizador pueden hacer parecer como que los consumos de AA o Iluminación superan al totalizador.
@@ -15,7 +15,7 @@ Febrero 2024
 
 ## Observaciones generales:
 
-Se continua la fase dos del proyecto de monitoreo, a la espera de nueva sucursales próximas a instalar, utilizando como línea de referencia los consumos desde diciembre de 2023 hasta febrero de 2025, obteniendo un total de 36 sedes con monitoreo instalado.
+Se continua la fase dos del proyecto de monitoreo, a la espera de nueva sucursales próximas a instalar, utilizando como línea de referencia los consumos desde diciembre de 2023 hasta febrero de 2025, obteniendo un total de 38 sedes con monitoreo instalado.
 
 ## Observaciones específicas:
 
@@ -23,7 +23,9 @@ Se continua la fase dos del proyecto de monitoreo, a la espera de nueva sucursal
 
 - La sede presenta durante el mes de febrero, consumos debido a la operación del sistema de aire acondicionado en los fines de semana, se notifica que durante este mes en estos periodos se han estado realizando labores de mantenimiento.
 
-<!-- ## BC 79 - La Quinta Ibague-->
+## BC 79 - La Quinta Ibague
+
+- La sede presenta durante el mes de febrero, consumos debido a la operación del sistema de aire acondicionado en los fines de semana, se notifica que durante este mes en estos periodos se han estado realizando labores de mantenimiento.
 
 ## BC 81 - Avenida Kennedy 
 
@@ -55,15 +57,15 @@ El consumo de energía de Diciembre fue 3356 kWh, para el mes de Diciembre se co
 
 ## BC 265 - Valle de Lili
 
-- El consumo de energía de Enero fue 3464 kWh, para el mes de Enero se consumió 681 kWh más en comparación al mes anterior Diciembre con 2783, lo que representa un 24.47% más de consumo.
+- Se presentó un cambio en los equipos de aire acondicionado al finalizar el mes, provocando una mejora en el patrón de consumo.
 
-<!-- ## BC 332 - Zipaquira
+## BC 332 - Zipaquira
 
-- El consumo de energía de Octubre fue 2643 kWh, para el mes de Octubre se consumió 143 kWh más en comparación al mes anterior Septiembre con 2500, lo que representa un 5.72% más de consumo.  -->
+- La sede aumentó su consumo  típico durante todo el mes, provocando un aumento en el consolidado final del mes a comparación con la línea base.
 
 <!-- ##BC 334 - El Peñol -->
 
-## BC 367 - Granada Meta
+<!-- ## BC 367 - Granada Meta
 
 - Se reestableció comunicación con la sede el día 20 de febrero.
 
@@ -96,7 +98,7 @@ El consumo de energía de Diciembre fue 3356 kWh, para el mes de Diciembre se co
 - La sede presentó consumos atípicos la última semana del mes.-->
 
 
-## BC 478 - Mix Vía 40
+<!--## BC 478 - Mix Vía 40
 
 - La sede presentó un patrón de consumo atípico la segunda semana del mes de febrero.
 
@@ -105,34 +107,30 @@ El consumo de energía de Diciembre fue 3356 kWh, para el mes de Diciembre se co
 
 
 
-<!-- ## BC 513 - El Difícil 
+## BC 513 - El Difícil 
 
-- La sede tuvo problemas con el patrón de consumo durante la tercera semana del mes de septiembre, aún así disminuyó su consumo en relación al anterior mes 
+- La sede tuvo problemas con el patrón de consumo durante la tercera semana del mes de marzo.
 
-- El consumo de energía de Septiembre fue 4180 kWh. para el mes de Septiembre se consumió 109 kWh menos en comparación al mes anterior Agosto con 4289, lo que representa un 2.54% menos de consumo -->
 ## BC 516 - Santa Marta
 
-- La sede aumentó su consumo con respecto a la línea base durante todo el mes.
-## BC 517 - El Rodadero
+- La sede presentó consumos elevados durante los fines de semana, estos consumos no fueron causados por el aire acondicionado.
 
-- Durante la mayor parte del mes la sucursal presento un patrón de consumo irregular en horarios nocturnos.
+<!--## BC 517 - El Rodadero
+
+- Durante la mayor parte del mes la sucursal presento un patrón de consumo irregular en horarios nocturnos.-->
 
 ## BC 554 - Mall Plaza Buenavista
 
 - La sede comenzó el monitoreo con una gran oportunidad de mejora en las horas de apagado del sistema de aire acondicionado.
 
-- Durante el transcurso del mes se notó el cambio del patrón de consumo resultando en una mejora significativa.
-
 - Se debe atender el no apagado del sistema de aires que se presenta las noches de los días viernes.
-
-- La sucursal pudo estar apagada durante el fin de semana del 8 al 10 de febrerom se debe validar las acciones que permitieron esta actividad.
 
 
 <!-- ## BC 583 - Riosucio -->
 
-## BC 619 - Plaza del Bosque Ibague
+<!--## BC 619 - Plaza del Bosque Ibague
 
-- La sucursal redujo su consumo con respecto a la línea base.
+- La sucursal redujo su consumo con respecto a la línea base.-->
 
 ## BC 673 - Calle 80
 
@@ -177,8 +175,12 @@ El consumo de energía de Diciembre fue 3356 kWh, para el mes de Diciembre se co
 
 ## BC 777 - Parque Washington
 
-- La sede presentaba problemas con el apagado del sistema de aires en las horas nocturnas, a partir del 2 de enero el problema quedó solucionado.
+<!--- La sede presentaba problemas con el apagado del sistema de aires en las horas nocturnas, a partir del 2 de enero el problema quedó solucionado.
 - El consumo de energía de Enero fue 5916 kWh, para el mes de Enero se consumió 727 kWh menos en comparación al mes anterior Diciembre con 6643, lo que representa un 10.94% menos de consumo
+-->
+
+- La sede presentó nuevamente los problemas de apagado durante las horas nocturnas durante este mes de marzo.
+
 
 <!-- ## BC 781 - Prado Plaza
 
