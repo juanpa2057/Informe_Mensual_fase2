@@ -4,7 +4,7 @@
 
 </div>
 
-Marzo 2025
+Abril 2025
 ## Tener presente:
 
 1. Las pérdidas de datos en el totalizador pueden hacer parecer como que los consumos de AA o Iluminación superan al totalizador.
@@ -21,11 +21,11 @@ Se continua la fase dos del proyecto de monitoreo, a la espera de nueva sucursal
 
 ## BC 73 - Pereira 
 
-- La sede presenta durante el mes de febrero, consumos debido a la operación del sistema de aire acondicionado en los fines de semana, se notifica que durante este mes en estos periodos se han estado realizando labores de mantenimiento.
+- El consumo de energía de Abril fue 7111 kWh, para el mes de Abril se consumió 1073 kWh menos en comparación al mes anterior Marzo con 8184, lo que representa un 13.12% menos de consumo
 
-## BC 79 - La Quinta Ibague
+<!--## BC 79 - La Quinta Ibague
 
-- La sede presenta durante el mes de febrero, consumos debido a la operación del sistema de aire acondicionado en los fines de semana, se notifica que durante este mes en estos periodos se han estado realizando labores de mantenimiento.
+- La sede presenta durante el mes de febrero, consumos debido a la operación del sistema de aire acondicionado en los fines de semana, se notifica que durante este mes en estos periodos se han estado realizando labores de mantenimiento.-->
 
 ## BC 81 - Avenida Kennedy 
 
@@ -45,21 +45,21 @@ Se continua la fase dos del proyecto de monitoreo, a la espera de nueva sucursal
 
 - El consumo de energía de Diciembre fue 5653 kWh, ´para el mes de Diciembre se consumió 356 kWh más en comparación al mes anterior Noviembre con 5297, lo que representa un 6.72% más de consumo.-->
 
-<!--## BC 138 - Mosquera
+## BC 138 - Mosquera
 
-- Se reestableció com.-->
+- Se reestableció comunicación ca la sucursal.
 
-<!--## BC 221 - Soacha
+## BC 221 - Soacha
 
 - La sede elevó sus consumo con respecto a la línea base, en horarios nocturnos y horarios laborales.
 
-El consumo de energía de Diciembre fue 3356 kWh, para el mes de Diciembre se consumió 166 kWh más en comparación al mes anterior Noviembre con 3190, lo que representa un 5.20% más de consumo.-->
+El consumo de energía de Abril fue 3627 kWh, para el mes de Abril se consumió 402 kWh más en comparación al mes anterior Marzo con 3225, lo que representa un 12.47% más de consumo.
 
 ## BC 265 - Valle de Lili
 
-- Se presentó un cambio en los equipos de aire acondicionado al finalizar el mes, provocando una mejora en el patrón de consumo.
+El consumo de energía de Abril fue 3569 kWh, para el mes de Abril se consumió 886 kWh más en comparación al mes anterior Marzo con 2683, lo que representa un 33.02% más de consumo
 
-## BC 332 - Zipaquira
+<!--## BC 332 - Zipaquira
 
 - La sede aumentó su consumo  típico durante todo el mes, provocando un aumento en el consolidado final del mes a comparación con la línea base.
 
@@ -98,16 +98,16 @@ El consumo de energía de Diciembre fue 3356 kWh, para el mes de Diciembre se co
 - La sede presentó consumos atípicos la última semana del mes.-->
 
 
-<!--## BC 478 - Mix Vía 40
+## BC 478 - Mix Vía 40
 
-- La sede presentó un patrón de consumo atípico la segunda semana del mes de febrero.
+- La sede presentó un patrón de consumo atípico la primera semana del mes
 
 
 <!-- ## BC 479 - Pamplona -->
 
 
 
-## BC 513 - El Difícil 
+<!--## BC 513 - El Difícil 
 
 - La sede tuvo problemas con el patrón de consumo durante la tercera semana del mes de marzo.
 
@@ -165,9 +165,10 @@ El consumo de energía de Diciembre fue 3356 kWh, para el mes de Diciembre se co
 
 - El consumo de energía de Octubre fue 2639 kWh, para el mes de Octubre se consumió 85 kWh menos en comparación al mes anterior Septiembre con 2724, lo que representa un 3.12% menos de consumo.-->
 
-<!--## BC 775 - Bulevar 54
+## BC 775 - Bulevar 54
 
-- La sede redujo su consumo con respecto a la línea bese en horarios laborales.
+- La sede presentó un consumo atípico durante la penúltima semana del mes
+<!-- La sede redujo su consumo con respecto a la línea bese en horarios laborales.
 
 - La sede presentó un patrón de consumo irregular durante el principio del mes.
 
@@ -179,14 +180,14 @@ El consumo de energía de Diciembre fue 3356 kWh, para el mes de Diciembre se co
 - El consumo de energía de Enero fue 5916 kWh, para el mes de Enero se consumió 727 kWh menos en comparación al mes anterior Diciembre con 6643, lo que representa un 10.94% menos de consumo
 -->
 
-- La sede presentó nuevamente los problemas de apagado durante las horas nocturnas durante este mes de marzo.
+- La sede presentó nuevamente los problemas de apagado durante los fines de semana durante este mes de abril.
 
 
-<!-- ## BC 781 - Prado Plaza
+## BC 781 - Prado Plaza
 
-- La sede aumentó su consumo con respecto a la línea base
+- La sede redujo su consumo con respecto a la línea base
 
-- El consumo de energía de Mayo fue 5398 kWh, para el mes de Mayo se consumió 318 kWh más en comparación al mes anterior Abril con 5080, lo que representa un 6.26% más de consumo. -->
+- El consumo de energía de Abril fue 4037 kWh, para el mes de Abril se consumió 378 kWh menos en comparación al mes anterior Marzo con 4415, lo que representa un 8.56% menos de consumo
 
 
 
