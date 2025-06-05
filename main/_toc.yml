@@ -6,14 +6,20 @@ root: intro
 chapters:
   - file: notebooks/summary/Notebook BC Resumen
   - file: Hallazgos
+  - file: notebooks/individual/Notebook BC 43 - Puente Aranda
+  - file: notebooks/individual/Notebook BC 57 - Villavicencio Principal
+  - file: notebooks/individual/Notebook BC 68 - Ibague
   - file: notebooks/individual/Notebook BC 73 - Pereira
   - file: notebooks/individual/Notebook BC 79 - La Quinta Ibague
   - file: notebooks/individual/Notebook BC 81 - Avenida Kennedy
+  - file: notebooks/individual/Notebook BC 83 - Miramar
   - file: notebooks/individual/Notebook BC 111 - Corozal
   - file: notebooks/individual/Notebook BC 115 - Circunvalar Pereira
   - file: notebooks/individual/Notebook BC 138 - Mosquera
   - file: notebooks/individual/Notebook BC 221 - Soacha
   - file: notebooks/individual/Notebook BC 265 - Valle de Lili
+  - file: notebooks/individual/Notebook BC 322 - San Gil
+  - file: notebooks/individual/Notebook BC 325 - Santuario
   - file: notebooks/individual/Notebook BC 332 - Zipaquira
   - file: notebooks/individual/Notebook BC 334 - El Peñol
   - file: notebooks/individual/Notebook BC 367 - Granada Meta
@@ -29,6 +35,7 @@ chapters:
   - file: notebooks/individual/Notebook BC 517 - El Rodadero
   - file: notebooks/individual/Notebook BC 554 - Mall Plaza Buenavista
   - file: notebooks/individual/Notebook BC 583 - Riosucio
+  - file: notebooks/individual/Notebook BC 602 - UGI
   - file: notebooks/individual/Notebook BC 619 - Plaza del Bosque Ibague
   - file: notebooks/individual/Notebook BC 673 - Calle 80
   - file: notebooks/individual/Notebook BC 681 - Cerete
@@ -39,8 +46,9 @@ chapters:
   - file: notebooks/individual/Notebook BC 775 - Bulevar 54
   - file: notebooks/individual/Notebook BC 777 - Parque Washington
   - file: notebooks/individual/Notebook BC 781 - Prado Plaza
+  - file: notebooks/individual/Notebook BC 795 - Cañaveral
   - file: notebooks/individual/Notebook BC 802 - Puerto Lopez
   - file: notebooks/individual/Notebook BC 832 - San Francisco de Paula
   - file: notebooks/individual/Notebook BC 892 - La Vega
-  - file: notebooks/individual/Notebook BC - Metropolitan
   - file: notebooks/individual/Notebook BC - Jardin Plaza
+  - file: notebooks/individual/Notebook BC - Metropolitan
