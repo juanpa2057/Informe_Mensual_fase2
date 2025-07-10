@@ -4,7 +4,7 @@
 
 </div>
 
-Mayo 2025
+Junio 2025
 ## Tener presente:
 
 1. Las pérdidas de datos en el totalizador pueden hacer parecer como que los consumos de AA o Iluminación superan al totalizador.
@@ -18,7 +18,24 @@ Mayo 2025
 Se continua la fase dos del proyecto de monitoreo, a la espera de nueva sucursales próximas a instalar, utilizando como línea de referencia los consumos desde diciembre de 2025 hasta mayo de 2025, obteniendo un total de 46 sedes con monitoreo instalado.
 
 ## Observaciones específicas:
-## BC 43 - Puente Aranda
+
+Durante este mes se vieron reflejadas las siguientes sucursales con consumos elevados durante los festivos, recordando que junio tuvo tres dias feriados, esto suele representar hasta un 20% de sobreconsumo.
+
+- BC 81 - Avenida Kennedy
+- BC 115 - Circunvalar Pereira
+- BC 221 - Soacha
+- BC 385 - Villeta
+- BC 777 - Parque Washington
+- BC 689 - Metropolis
+
+Las siguientes sucursales son las que presentan un comportamiento atípico en comparación con otras sucursales ya que representan problemas con la automatización y sobreconsumos.
+
+- BC 57 - Villavicencio Principal
+- BC 68 - Ibague
+- BC 554 - Mall Plaza Buenavista
+- BC 689 - Metropolis
+
+<!--## BC 43 - Puente Aranda
 
 - Se agrega esta sucursal al informe.
 
@@ -47,19 +64,19 @@ Se continua la fase dos del proyecto de monitoreo, a la espera de nueva sucursal
 
 ## BC 81 - Avenida Kennedy 
 
-- La sede presenta problemas con la automatización, manteniendo encendidos los equipos de aire acondicionado durante los fines de semana.
+- La sede corrigió los problemas con la automatización durante los fines de semana.
 
 <!--- Durante la última semana del mes, la sede presentó consumos nocturnos elevados.--->
 
-## BC 83 - Miramar
+<!--## BC 83 - Miramar
 
 - Se agrega esta sucursal al informe.
 
-- La sede arrancó el mes con problemas en los horarios nocturnos, los cuales fueron solucionados la última semana del mes.
+- La sede arrancó el mes con problemas en los horarios nocturnos, los cuales fueron solucionados la última semana del mes.-->
 
 ## BC 111 Corozal
 
-- La sede presenta problemas con la medición se está gestionando el arreglo de estas medidas.
+- Se solucionó los problemas de medida de la sede.
 
 <!--## BC 115 - Circunvalar Pereira
 
@@ -79,7 +96,7 @@ Se continua la fase dos del proyecto de monitoreo, a la espera de nueva sucursal
 
 El consumo de energía de Abril fue 3627 kWh, para el mes de Abril se consumió 402 kWh más en comparación al mes anterior Marzo con 3225, lo que representa un 12.47% más de consumo.-->
 
-## BC 265 - Valle de Lili
+<!--## BC 265 - Valle de Lili
 
 - La sucursal tuvo encendidos en horarios nocutrnos durante la última semana del mes.
 
@@ -94,26 +111,26 @@ El consumo de energía de Abril fue 3627 kWh, para el mes de Abril se consumió 
 
 - Se agrega esta sucursal al informe.
 
-- La sucursal no tiene una medida grande de equipos de enfriamiento a comparación de otras sucursales.
+- La sucursal no tiene una medida grande de equipos de enfriamiento a comparación de otras sucursales.-->
 
 
 ## BC 332 - Zipaquira
 
-- Se presenta una situación crítica con la sucursal, el sistema de aire acondicionado estuvo encendido durante todo el mes.
+- Se solucionan los encendidos permantentes por mantenimiento de la sucursal.
 
-- El consumo de energía de Mayo fue 3873 kWh, para el mes de Mayo se consumió 859 kWh más en comparación al mes anterior Abril con 3014, lo que representa un 28.50% más de consumo.
+- El consumo de energía de Junio fue 3058 kWh, para el mes de Junio se consumió 815 kWh menos en comparación al mes anterior Mayo con 3873, lo que representa un 21.04% menos de consumo
 
 <!--- La sede aumentó su consumo  típico durante todo el mes, provocando un aumento en el consolidado final del mes a comparación con la línea base.
 
 <!-- ##BC 334 - El Peñol -->
 
-## BC 367 - Granada Meta
+<!--## BC 367 - Granada Meta
 
 <!--- Se reestableció comunicación con la sede el día 20 de febrero.-->
 
-- La sede presentó una perdida de comunicación durante los primeros días del mes.
+<!--- La sede presentó una perdida de comunicación durante los primeros días del mes.
 
-## BC 384 - Anapoima 
+<!--## BC 384 - Anapoima 
 
 
 - La sucursal presentó encendidos durante en fines de semana durante la primer y tercer semana del mes.
@@ -160,7 +177,7 @@ El consumo de energía de Abril fue 3627 kWh, para el mes de Abril se consumió 
 
 - La sede tuvo problemas con el patrón de consumo durante la tercera semana del mes de marzo.-->
 
-## BC 516 - Santa Marta
+<!--## BC 516 - Santa Marta
 
 - La sede presentó horas de apagado tardias, y consumos durante fines de semana, la gran parte del mes.
 
@@ -179,7 +196,7 @@ El consumo de energía de Abril fue 3627 kWh, para el mes de Abril se consumió 
 
 <!-- ## BC 583 - Riosucio -->
 
-## BC 602 - UGI
+<!---## BC 602 - UGI
 
 - Se agrega esta sucursal al informe.
 
@@ -202,9 +219,9 @@ El consumo de energía de Abril fue 3627 kWh, para el mes de Abril se consumió 
 
 - El consumo de energía de Julio fue 4586 kWh. para el mes de Julio se consumió 1210 kWh más en comparación al mes anterior Junio con 3376, lo que representa un 35.84% más de consumo.-->
 
-<!--## BC 689 - Metropolis
+## BC 689 - Metropolis
 
-- La sede mejoró su patrón de consumo en los horarios de apagado y horas nocturnas durante el mes.
+<!--- La sede mejoró su patrón de consumo en los horarios de apagado y horas nocturnas durante el mes.
 
 - La sede encendió el sistema de aires acondicionados el 25 de diciembre que representa un día festivo. 
 
@@ -216,7 +233,7 @@ El consumo de energía de Abril fue 3627 kWh, para el mes de Abril se consumió 
 
 - El consumo de energía de Noviembre fue 4035 kWh, para el mes de Noviembre se consumió 577 kWh menos en comparación al mes anterior Octubre con 4612, lo que representa un 12.51% menos de consumo.-->
 
-## BC 772 - Caicedonia 
+<!--## BC 772 - Caicedonia 
 
 - El consumo de energía de Mayo fue 3062 kWh, para el mes de Mayo se consumió 404 kWh más en comparación al mes anterior Abril con 2658, lo que representa un 15.20% más de consumo
 
@@ -229,13 +246,13 @@ El consumo de energía de Abril fue 3627 kWh, para el mes de Abril se consumió 
 
 - El consumo de energía de Diciembre fue 6246 kWh, para el mes de Diciembre se consumió 231 kWh más en comparación al mes anterior Noviembre con 6015, lo que representa un 3.84% más de consumo. -->
 
-## BC 777 - Parque Washington
+<!--## BC 777 - Parque Washington
 
 <!--- La sede presentaba problemas con el apagado del sistema de aires en las horas nocturnas, a partir del 2 de enero el problema quedó solucionado.
 - El consumo de energía de Enero fue 5916 kWh, para el mes de Enero se consumió 727 kWh menos en comparación al mes anterior Diciembre con 6643, lo que representa un 10.94% menos de consumo
 -->
 
-- La sede presentó nuevamente los problemas de apagado durante las horas nocturnas la tercera semana del mes.
+<!--- La sede presentó nuevamente los problemas de apagado durante las horas nocturnas la tercera semana del mes.
 
 <!--## BC 781 - Prado Plaza
 
@@ -243,7 +260,7 @@ El consumo de energía de Abril fue 3627 kWh, para el mes de Abril se consumió 
 
 - El consumo de energía de Abril fue 4037 kWh, para el mes de Abril se consumió 378 kWh menos en comparación al mes anterior Marzo con 4415, lo que representa un 8.56% menos de consumo-->
 
-## BC 795 - Cañaveral
+<!--## BC 795 - Cañaveral
 
 - Se agrega esta sucursal al informe.
 
