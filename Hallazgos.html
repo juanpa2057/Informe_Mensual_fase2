@@ -34,7 +34,7 @@
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
-    <link rel="stylesheet" type="text/css" href="_static/design-style.1e8bd061cd6da7fc9cf755528e8ffc24.min.css?v=0a3b3ea7" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
   <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8d27b9dea8ad943066ae" />
@@ -52,7 +52,7 @@
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="_static/togglebutton.js?v=4a39c7ea"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
-    <script src="_static/design-tabs.js?v=36754332"></script>
+    <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
@@ -224,8 +224,8 @@
 <li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20802%20-%20Puerto%20Lopez.html">BC 802 - Puerto Lopez</a></li>
 <li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20832%20-%20San%20Francisco%20de%20Paula.html">BC 832 - San Francisco de Paula</a></li>
 <li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20892%20-%20La%20Vega.html">BC 892 - La Vega</a></li>
-<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20-%20Metropolitan.html">BC - Metropolitan</a></li>
 <li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20-%20Jardin%20Plaza.html">BC - Jardin Plaza</a></li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks/individual/Notebook%20BC%20-%20Metropolitan.html">BC - Metropolitan</a></li>
 </ul>
 
     </div>
@@ -396,7 +396,7 @@ document.write(`
 <h1>Observaciones<a class="headerlink" href="#observaciones" title="Link to this heading">#</a></h1>
 <div align="right">
 </div>
-<p>Junio 2025</p>
+<p>Agosto 2025</p>
 <section id="tener-presente">
 <h2>Tener presente:<a class="headerlink" href="#tener-presente" title="Link to this heading">#</a></h2>
 <ol class="arabic simple">
@@ -408,15 +408,22 @@ document.write(`
 </section>
 <section id="observaciones-generales">
 <h2>Observaciones generales:<a class="headerlink" href="#observaciones-generales" title="Link to this heading">#</a></h2>
-<p>Se continua la fase dos del proyecto de monitoreo, a la espera de nueva sucursales próximas a instalar, utilizando como línea de referencia los consumos desde diciembre de 2025 hasta mayo de 2025, obteniendo un total de 46 sedes con monitoreo instalado.</p>
+<p>Se continua la fase dos del proyecto de monitoreo, a la espera de nueva sucursales próximas a instalar, utilizando como línea de referencia los consumos desde diciembre de 2025 hasta agosto de 2025, obteniendo un total de 46 sedes con monitoreo instalado.</p>
+<p>Durante este mes se observa un aumento en el consumo en la mayoría de las sucursales. Esto se debe a que en el mes actual no hubo días festivos, mientras que en el mes anterior hubo tres, lo que puede generar la percepción de un sobreconsumo al hacer la comparación.</p>
 </section>
 <section id="observaciones-especificas">
 <h2>Observaciones específicas:<a class="headerlink" href="#observaciones-especificas" title="Link to this heading">#</a></h2>
-<p>Durante este mes se vieron reflejadas las siguientes sucursales con consumos elevados durante los festivos, recordando que junio tuvo tres dias feriados, esto suele representar hasta un 20% de sobreconsumo.</p>
+<p>Durante este mes se vieron reflejadas las siguientes sucursales con consumos elevados durante los festivos.</p>
 <ul class="simple">
+<li><p>BC 57 - Villavicencio</p></li>
+<li><p>BC 68 - Ibague</p></li>
 <li><p>BC 81 - Avenida Kennedy</p></li>
 <li><p>BC 115 - Circunvalar Pereira</p></li>
 <li><p>BC 221 - Soacha</p></li>
+<li><p>BC 332 - Zipaquira</p></li>
+<li><p>BC 384 - Anapoima</p></li>
+<li><p>BC 554 - Mall Plaza Buenavista</p></li>
+<li><p>BC 619 - Plaza del Bosque Ibague</p></li>
 <li><p>BC 385 - Villeta</p></li>
 <li><p>BC 777 - Parque Washington</p></li>
 <li><p>BC 689 - Metropolis</p></li>
@@ -424,9 +431,19 @@ document.write(`
 <p>Las siguientes sucursales son las que presentan un comportamiento atípico en comparación con otras sucursales ya que representan problemas con la automatización y sobreconsumos.</p>
 <ul class="simple">
 <li><p>BC 57 - Villavicencio Principal</p></li>
-<li><p>BC 68 - Ibague</p></li>
+<li><p>BC 138 - Mosquera (Presenta oportunidad de mejora en las horas de apagado)</p></li>
+<li><p>BC 461 - La carolina Unicentro (Presentó consumos nocturnos elevados durante el final de mes representando un 10% mas de consumo.)</p></li>
+</ul>
+<!--- BC 478 -  Mix Vía 40 (Presentó consumos nocturnos y de fin de semana durante el final del mesrepresentando un 37% mas de consumo.)-->
+<ul class="simple">
+<li><p>BC 681 - Cerete (Presenta oportunidad de mejora en las horas de apagado)</p></li>
+<li><p>BC 777 - Parque Washington (Presenta oportunidad de mejora en las horas de encendido)</p></li>
+</ul>
+<p>Las siguientes sucursales resolvieron las novedades que tenían</p>
+<ul class="simple">
+<li><p>BC 81 - Avenida Kennedy</p></li>
 <li><p>BC 554 - Mall Plaza Buenavista</p></li>
-<li><p>BC 689 - Metropolis</p></li>
+<li><p>BC 68 - Ibague (Reduce su consumo un 18%)</p></li>
 </ul>
 <!--## BC 43 - Puente Aranda
 

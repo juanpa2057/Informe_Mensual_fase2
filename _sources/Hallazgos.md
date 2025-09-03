@@ -4,7 +4,7 @@
 
 </div>
 
-Junio 2025
+Agosto 2025
 ## Tener presente:
 
 1. Las pérdidas de datos en el totalizador pueden hacer parecer como que los consumos de AA o Iluminación superan al totalizador.
@@ -15,15 +15,22 @@ Junio 2025
 
 ## Observaciones generales:
 
-Se continua la fase dos del proyecto de monitoreo, a la espera de nueva sucursales próximas a instalar, utilizando como línea de referencia los consumos desde diciembre de 2025 hasta mayo de 2025, obteniendo un total de 46 sedes con monitoreo instalado.
+Se continua la fase dos del proyecto de monitoreo, a la espera de nueva sucursales próximas a instalar, utilizando como línea de referencia los consumos desde diciembre de 2025 hasta agosto de 2025, obteniendo un total de 46 sedes con monitoreo instalado.
+
+Durante este mes se observa un aumento en el consumo en la mayoría de las sucursales. Esto se debe a que en el mes actual no hubo días festivos, mientras que en el mes anterior hubo tres, lo que puede generar la percepción de un sobreconsumo al hacer la comparación.
 
 ## Observaciones específicas:
 
-Durante este mes se vieron reflejadas las siguientes sucursales con consumos elevados durante los festivos, recordando que junio tuvo tres dias feriados, esto suele representar hasta un 20% de sobreconsumo.
-
+Durante este mes se vieron reflejadas las siguientes sucursales con consumos elevados durante los festivos.
+- BC 57 - Villavicencio
+- BC 68 - Ibague
 - BC 81 - Avenida Kennedy
 - BC 115 - Circunvalar Pereira
 - BC 221 - Soacha
+- BC 332 - Zipaquira
+- BC 384 - Anapoima
+- BC 554 - Mall Plaza Buenavista
+- BC 619 - Plaza del Bosque Ibague
 - BC 385 - Villeta
 - BC 777 - Parque Washington
 - BC 689 - Metropolis
@@ -31,9 +38,18 @@ Durante este mes se vieron reflejadas las siguientes sucursales con consumos ele
 Las siguientes sucursales son las que presentan un comportamiento atípico en comparación con otras sucursales ya que representan problemas con la automatización y sobreconsumos.
 
 - BC 57 - Villavicencio Principal
-- BC 68 - Ibague
+- BC 138 - Mosquera (Presenta oportunidad de mejora en las horas de apagado)
+- BC 461 - La carolina Unicentro (Presentó consumos nocturnos elevados durante el final de mes representando un 10% mas de consumo.)
+<!--- BC 478 -  Mix Vía 40 (Presentó consumos nocturnos y de fin de semana durante el final del mesrepresentando un 37% mas de consumo.)-->
+- BC 681 - Cerete (Presenta oportunidad de mejora en las horas de apagado)
+- BC 777 - Parque Washington (Presenta oportunidad de mejora en las horas de encendido)
+
+Las siguientes sucursales resolvieron las novedades que tenían
+
+- BC 81 - Avenida Kennedy
 - BC 554 - Mall Plaza Buenavista
-- BC 689 - Metropolis
+- BC 68 - Ibague (Reduce su consumo un 18%)
+
 
 <!--## BC 43 - Puente Aranda
 
