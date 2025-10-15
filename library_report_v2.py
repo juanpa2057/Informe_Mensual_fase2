@@ -12,16 +12,17 @@ pio.templates.default = "plotly_white"
 
 
 class Configuration:
-    PRIMARY_PALETTE = ['#d5752d', '#59595b']
-    SECONDARY_PALETTE = ['#13a2e1', '#00be91', '#fff65e', '#003fa2', '#ca0045']
+    PRIMARY_PALETTE = ['#ff7703', '#033584']
+    SECONDARY_PALETTE = ['#60e260', '#00be91', '#fff65e', '#003fa2', '#ca0045']
     FULL_PALETTE = PRIMARY_PALETTE + SECONDARY_PALETTE
+    FONT_COLOR = '#000000'
 
     PLOTLY_COLOR_SCALE_0_TO_1 = [
         (0, '#FFFFFF'),
         (1, FULL_PALETTE[0])
     ]
     PLOTLY_COLOR_SCALE_NEG1_TO_1 = [
-        (0, FULL_PALETTE[1]),
+        (0, FONT_COLOR),
         (0.5, '#FFFFFF'),
         (1, FULL_PALETTE[0])
     ]
@@ -43,6 +44,7 @@ class Configuration:
         5: 'sábado',
         6: 'domingo',
     }
+
 
 class Cleaning:
     # abbreviated as cln
@@ -421,7 +423,7 @@ class Graphing:
             title=title,
             font_family=Configuration.CELSIA_FONT,
             font_size=Configuration.PLOTLY_TITLE_FONT_SIZE,
-            font_color=Configuration.FULL_PALETTE[1],
+            font_color=Configuration.FONT_COLOR,
             title_x=Configuration.PLOTLY_TITLE_X,
             width=Configuration.JBOOK_PLOTLY_WIDTH,
             height=Configuration.JBOOK_PLOTLY_HEIGHT,
@@ -479,7 +481,7 @@ class Graphing:
             title=title,
             font_family=Configuration.CELSIA_FONT,
             font_size=Configuration.PLOTLY_TITLE_FONT_SIZE,
-            font_color=Configuration.FULL_PALETTE[1],
+            font_color=Configuration.FONT_COLOR,
             title_x=Configuration.PLOTLY_TITLE_X,
             width=Configuration.JBOOK_PLOTLY_WIDTH,
             height=Configuration.JBOOK_PLOTLY_HEIGHT,
@@ -538,7 +540,7 @@ class Graphing:
             title=title,
             font_family=Configuration.CELSIA_FONT,
             font_size=Configuration.PLOTLY_TITLE_FONT_SIZE,
-            font_color=Configuration.FULL_PALETTE[1],
+            font_color=Configuration.FONT_COLOR,
             title_x=Configuration.PLOTLY_TITLE_X,
             width=Configuration.JBOOK_PLOTLY_WIDTH,
             height=Configuration.JBOOK_PLOTLY_HEIGHT,
@@ -603,7 +605,7 @@ class Graphing:
             title=title,
             font_family=Configuration.CELSIA_FONT,
             font_size=Configuration.PLOTLY_TITLE_FONT_SIZE,
-            font_color=Configuration.FULL_PALETTE[1],
+            font_color=Configuration.FONT_COLOR,
             title_x=Configuration.PLOTLY_TITLE_X,
             width=Configuration.JBOOK_PLOTLY_WIDTH,
             height=Configuration.JBOOK_PLOTLY_HEIGHT,
@@ -669,7 +671,7 @@ class Graphing:
             title=title,
             font_family=Configuration.CELSIA_FONT,
             font_size=Configuration.PLOTLY_TITLE_FONT_SIZE,
-            font_color=Configuration.FULL_PALETTE[1],
+            font_color=Configuration.FONT_COLOR,
             title_x=Configuration.PLOTLY_TITLE_X,
             width=Configuration.JBOOK_PLOTLY_WIDTH,
             height=Configuration.JBOOK_PLOTLY_HEIGHT,
@@ -719,7 +721,7 @@ class Graphing:
             title=title,
             font_family=Configuration.CELSIA_FONT,
             font_size=Configuration.PLOTLY_TITLE_FONT_SIZE,
-            font_color=Configuration.FULL_PALETTE[1],
+            font_color=Configuration.FONT_COLOR,
             title_x=Configuration.PLOTLY_TITLE_X,
             width=Configuration.JBOOK_PLOTLY_WIDTH,
             height=Configuration.JBOOK_PLOTLY_HEIGHT,

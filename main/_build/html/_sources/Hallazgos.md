@@ -4,7 +4,7 @@
 
 </div>
 
-Agosto 2025
+Septiembre 2025
 ## Tener presente:
 
 1. Las pérdidas de datos en el totalizador pueden hacer parecer como que los consumos de AA o Iluminación superan al totalizador.
@@ -21,7 +21,7 @@ Durante este mes se observa un aumento en el consumo en la mayoría de las sucur
 
 ## Observaciones específicas:
 
-Durante este mes se vieron reflejadas las siguientes sucursales con consumos elevados durante los festivos.
+<!--Durante este mes se vieron reflejadas las siguientes sucursales con consumos elevados durante los festivos.
 - BC 57 - Villavicencio
 - BC 68 - Ibague
 - BC 81 - Avenida Kennedy
@@ -33,7 +33,7 @@ Durante este mes se vieron reflejadas las siguientes sucursales con consumos ele
 - BC 619 - Plaza del Bosque Ibague
 - BC 385 - Villeta
 - BC 777 - Parque Washington
-- BC 689 - Metropolis
+- BC 689 - Metropolis-->
 
 Las siguientes sucursales son las que presentan un comportamiento atípico en comparación con otras sucursales ya que representan problemas con la automatización y sobreconsumos.
 
@@ -44,11 +44,11 @@ Las siguientes sucursales son las que presentan un comportamiento atípico en co
 - BC 681 - Cerete (Presenta oportunidad de mejora en las horas de apagado)
 - BC 777 - Parque Washington (Presenta oportunidad de mejora en las horas de encendido)
 
-Las siguientes sucursales resolvieron las novedades que tenían
+<!--Las siguientes sucursales resolvieron las novedades que tenían
 
 - BC 81 - Avenida Kennedy
 - BC 554 - Mall Plaza Buenavista
-- BC 68 - Ibague (Reduce su consumo un 18%)
+- BC 68 - Ibague (Reduce su consumo un 18%)-->
 
 
 <!--## BC 43 - Puente Aranda
@@ -72,13 +72,15 @@ Las siguientes sucursales resolvieron las novedades que tenían
 
 <!--## BC 73 - Pereira 
 
-- El consumo de energía de Abril fue 7111 kWh, para el mes de Abril se consumió 1073 kWh menos en comparación al mes anterior Marzo con 8184, lo que representa un 13.12% menos de consumo
+- El consumo de energía de Abril fue 7111 kWh, para el mes de Abril se consumió 1073 kWh menos en comparación al mes anterior Marzo con 8184, lo que representa un 13.12% menos de consumo-->
 
-<!--## BC 79 - La Quinta Ibague
+## BC 79 - La Quinta Ibague
 
-- La sede presenta durante el mes de febrero, consumos debido a la operación del sistema de aire acondicionado en los fines de semana, se notifica que durante este mes en estos periodos se han estado realizando labores de mantenimiento.-->
+- La sede consumió más durante los horarios laborales durante este mes.
 
-## BC 81 - Avenida Kennedy 
+- El consumo de energía de Septiembre fue 8941 kWh, para el mes de Septiembre se consumió 1190 kWh más en comparación al mes anterior Agosto con 7751, lo que representa un 15.35% más de consumo
+
+<!--## BC 81 - Avenida Kennedy 
 
 - La sede corrigió los problemas con la automatización durante los fines de semana.
 
@@ -90,7 +92,7 @@ Las siguientes sucursales resolvieron las novedades que tenían
 
 - La sede arrancó el mes con problemas en los horarios nocturnos, los cuales fueron solucionados la última semana del mes.-->
 
-## BC 111 Corozal
+<!--## BC 111 Corozal
 
 - Se solucionó los problemas de medida de la sede.
 
@@ -130,7 +132,7 @@ El consumo de energía de Abril fue 3627 kWh, para el mes de Abril se consumió 
 - La sucursal no tiene una medida grande de equipos de enfriamiento a comparación de otras sucursales.-->
 
 
-## BC 332 - Zipaquira
+<!--## BC 332 - Zipaquira
 
 - Se solucionan los encendidos permantentes por mantenimiento de la sucursal.
 
@@ -175,14 +177,18 @@ El consumo de energía de Abril fue 3627 kWh, para el mes de Abril se consumió 
 
 <!--## BC 415 - El Retiro -->
 
-<!--## BC 461 - La carolina Unicentro
+## BC 461 - La carolina Unicentro
 
-- La sede presentó consumos atípicos la última semana del mes.-->
+- El problema de automatización de la sucursal, generó un sobreconsumo mayor al 30% en la sucursal.
+
+- El consumo de energía de Septiembre fue 8941 kWh, para el mes de Septiembre se consumió 1190 kWh más en comparación al mes anterior Agosto con 7751, lo que representa un 15.35% más de consumo
 
 
-<!--## BC 478 - Mix Vía 40
+## BC 478 - Mix Vía 40
 
-- La sede presentó un patrón de consumo atípico la primera semana del mes
+- La sede consumió más durante los horarios laborales durante este mes.
+
+- El consumo de energía de Septiembre fue 5601 kWh, para el mes de Septiembre se consumió 924 kWh más en comparación al mes anterior Agosto con 4677, lo que representa un 19.76% más de consumo
 
 
 <!-- ## BC 479 - Pamplona -->
@@ -197,17 +203,19 @@ El consumo de energía de Abril fue 3627 kWh, para el mes de Abril se consumió 
 
 - La sede presentó horas de apagado tardias, y consumos durante fines de semana, la gran parte del mes.
 
-- El consumo de energía de Mayo fue 12320 kWh, para el mes de Mayo se consumió 770 kWh más en comparación al mes anterior Abril con 11550, lo que representa un 6.67% más de consumo.
+- El consumo de energía de Mayo fue 12320 kWh, para el mes de Mayo se consumió 770 kWh más en comparación al mes anterior Abril con 11550, lo que representa un 6.67% más de consumo.-->
 
 ## BC 517 - El Rodadero
 
-- La sucursal presentó consumos en horarios nocturnos, los tres últimos martes de la semana.
+- El problema de automatización de la sucursal, generó un sobreconsumo mayor al 30% en la sucursal.
 
-## BC 554 - Mall Plaza Buenavista
+- El consumo de energía de Septiembre fue 6374 kWh, para el mes de Septiembre se consumió 1197 kWh más en comparación al mes anterior Agosto con 5177, lo que representa un 23.12% más de consumo
+
+<!--## BC 554 - Mall Plaza Buenavista
 
 - La sede comenzó el monitoreo con una gran oportunidad de mejora en las horas de apagado del sistema de aire acondicionado.
 
-- Se debe atender el no apagado del sistema de aires que se presenta las noches de los días viernes.
+- Se debe atender el no apagado del sistema de aires que se presenta las noches de los días viernes.-->
 
 
 <!-- ## BC 583 - Riosucio -->
@@ -222,10 +230,9 @@ El consumo de energía de Abril fue 3627 kWh, para el mes de Abril se consumió 
 
 - La sucursal redujo su consumo con respecto a la línea base.-->
 
-<!--## BC 673 - Calle 80
+## BC 673 - Calle 80
 
-- La sucursal aumentó su consumo a comparación con la línea base.
-
+- La sucursal tuvo reparaciones durante este mes y arregló su patrón de consumo, lo que a futuro representará un menor consumo.
 
 <!--## BC 681 - Cerete
 
@@ -237,9 +244,9 @@ El consumo de energía de Abril fue 3627 kWh, para el mes de Abril se consumió 
 
 ## BC 689 - Metropolis
 
-<!--- La sede mejoró su patrón de consumo en los horarios de apagado y horas nocturnas durante el mes.
+- El consumo de energía de Septiembre fue 2813 kWh, para el mes de Septiembre se consumió 467 kWh más en comparación al mes anterior Agosto con 2346, lo que representa un 19.91% más de consumo
 
-- La sede encendió el sistema de aires acondicionados el 25 de diciembre que representa un día festivo. 
+<!--- La sede encendió el sistema de aires acondicionados el 25 de diciembre que representa un día festivo. 
 
 - El consumo de energía de Diciembre fue 2417 kWh, para el mes de Diciembre se consumió 371 kWh más en comparación al mes anterior Noviembre con 2046, lo que representa un 18.13% más de consumo.-->
 
@@ -249,10 +256,11 @@ El consumo de energía de Abril fue 3627 kWh, para el mes de Abril se consumió 
 
 - El consumo de energía de Noviembre fue 4035 kWh, para el mes de Noviembre se consumió 577 kWh menos en comparación al mes anterior Octubre con 4612, lo que representa un 12.51% menos de consumo.-->
 
-<!--## BC 772 - Caicedonia 
+## BC 772 - Caicedonia 
 
-- El consumo de energía de Mayo fue 3062 kWh, para el mes de Mayo se consumió 404 kWh más en comparación al mes anterior Abril con 2658, lo que representa un 15.20% más de consumo
+- La sucursal aumentó su consumo en horarios nocturnos, el sistema de aire no se está apagando por completo, este comportamiento representó un 10% de sobreconsumo.
 
+- El consumo de energía de Septiembre fue 3177 kWh, para el mes de Septiembre se consumió 282 kWh más en comparación al mes anterior Agosto con 2895, lo que representa un 9.74% más de consumo
 <!--## BC 775 - Bulevar 54
 
 - La sede presentó un consumo atípico durante la penúltima semana del mes
@@ -284,17 +292,17 @@ El consumo de energía de Abril fue 3627 kWh, para el mes de Abril se consumió 
 
 - El consumo de energía de Junio fue 3810 kWh, para el mes de Junio se consumió 540 kWh menos en comparación al mes anterior Mayo con 4350, lo que representa un 12.41% menos de consumo. -->
 
-<!--## BC 832 - San Francisco de Paula
+## BC 832 - San Francisco de Paula
 
-- La sede redujo su consumo con respecto a la línea bese en horarios laborales
+- La sede consumió más durante los horarios laborales durante este mes.
 
-- El consumo de energía de Noviembre fue 5208 kWh, para el mes de Noviembre se consumió 1279 kWh menos en comparación al mes anterior Octubre con 6487, lo que representa un 19.72% menos de consumo -->
+- El consumo de energía de Septiembre fue 6276 kWh, para el mes de Septiembre se consumió 290 kWh más en comparación al mes anterior Agosto con 5986, lo que representa un 4.84% más de consumo.
 
-<!---## BC 892 - La Vega
+## BC 892 - La Vega
 
-- La sede redujo su consumo con respecto a la línea bese en horarios laborales
+- El problema de automatización de la sucursal, generó un sobreconsumo de un 8% en la sucursal.
 
-- El consumo de energía de Noviembre fue 1233 kWh, para el mes de Noviembre se consumió 284 kWh menos en comparación al mes anterior Octubre con 1517, lo que representa un 18.74% menos de consumo -->
+- El consumo de energía de Septiembre fue 1641 kWh, para el mes de Septiembre se consumió 129 kWh más en comparación al mes anterior Agosto con 1512, lo que representa un 8.50% más de consumo
 
 <!-- ## BC - Jardin Plaza -->
 
